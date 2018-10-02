@@ -1,0 +1,24 @@
+{
+  "name": "hackuta.github.io",
+  "homepage": "https://github.com/HackUTA/hackuta.github.io",
+  "authors": [
+    "Cameron Moreau <cameron.cm6@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "bootstrap": "v4.0.0-alpha.6",
+    "font-awesome": "fontawesome#^4.7.0",
+    "jQuery": "^3.1.1",
+    "animate.css": "^3.5.2"
+  }
+}

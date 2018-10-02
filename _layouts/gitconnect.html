@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>GitHub Authorize - HackUTA</title>
+    <meta name="author" content="HackUTA">
+    <meta name="description" content="GitHub Authorize. University of Texas at Arlington's very first 24 hour hackathon">
+    <meta name="keywords" content="GitHub Authorize, hackuta, hackathon, University of Texas at Arlington">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="GitHub Authorize - HackUTA" />
+    <meta property="og:description" content="Register for HackUTA. University of Texas at Arlington's very first 24 hour hackathon" />
+    <meta property="og:url" content="http://hackuta.com/gitconnect" />
+    <meta property="og:image" content="/img/hackuta_logo.png" />
+
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <body>
+   <div id="particles-js">
+     <section id="main-cover">
+      <div class="cover-content">
+        <h2> Let's get you started! </h2>
+        <a id="github-authorize" href="http://github.com/login/oauth/authorize?client_id=76f1cb59598f737c55bb" class="btn btn-lg">Authorize</a>
+      </div>
+     </section>
+   </div>
+
+   <footer class="bg-darker-light text-center container-fluid py-3 footer">
+     <div class="row">
+       <div class="col-md-4"></div>
+       <div class="col-md-4">&copy; Copyright 2017 HackUTA</div>
+     </div>
+   </footer>
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript">
+      queryListner();
+      function queryListner() {
+        var queryDict = {};
+        location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]})
+        if (queryDict.code) {
+          $('#github-authorize').hide();
+          sendCode(queryDict.code);
+        }
+      }
+
+      function sendCode(code) {
+        console.log(code);
+      }
+    </script>
+    <script src="bower_components/bootstrap/dist/css/bootstrap.min.css"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-93534845-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

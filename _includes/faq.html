@@ -1,0 +1,14 @@
+<section class="container py-3 faq">
+
+	<div id="faq">
+		<h2 class="text-center mb-4">Frequently Asked Questions</h2>
+		<div class="row">
+			{% for item in page.faq %}
+			<div class="col-sm-6 mb-3">
+				<h4>{{item[0]}}</h4>
+				<p>{{item[1]}}</p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
