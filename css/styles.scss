@@ -1,9 +1,9 @@
 ---
 ---
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600');
-$primary: #000000;
+$primary: #003d99;
 $secondary: #9eb6bd;
-$accent: #ec971f;
+$accent: #990000;
 $dark-light: #F2F2F2;
 $light: #FFFFFF;
 $red: #801515;
@@ -85,10 +85,7 @@ a {
 
     .fa { margin: 0 5px; }
   }
-   .Gold-Sponsors img {
-     width: 40%;
-    height: auto;
-   }
+
 
   // &::after {
   //   content: '';
@@ -104,7 +101,7 @@ a {
 }
 
 .bg-darker-light {
-  background: #000000;
+  background: $primary;
   color: $dark-light;
 }
 
@@ -312,7 +309,7 @@ a {
 }
 
 .live {
-  background-color: #000000;
+  background-color: $primary;
   color:#373a3c;
 }
 
