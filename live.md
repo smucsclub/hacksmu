@@ -106,7 +106,7 @@ schedule: [
     [
       "10/01",
       "03:30 pm",
-      "HackUTA ends",
+      "HackSMU ends",
       ""
     ]
 ]

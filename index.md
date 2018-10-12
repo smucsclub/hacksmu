@@ -3,11 +3,11 @@ layout: home
 faq: [
   [
     "What is a hackathon?",
-    "A hackathon is best described as an 'invention marathon'. Anyone of any skill level is welcome to come and invent anything. If you want to build an iOS game, an IOT sticker vending machine, or even the next big social network, come to HackUTA!"
+    "A hackathon is best described as an 'invention marathon'. Anyone of any skill level is welcome to come and invent anything. If you want to build an iOS game, an IOT sticker vending machine, or even the next big social network, come to HackSMU!"
   ],
   [
     "How do I apply?",
-    "Registration has opened. <a href='https://hackuta2018.typeform.com/to/xRoIAo' target='_blank'> Register Here</a> "
+    "Registration has opened. <a href='https://HackSMU2018.typeform.com/to/xRoIAo' target='_blank'> Register Here</a> "
   ],
   [
     "What can I make?",
@@ -15,11 +15,11 @@ faq: [
   ],
   [
     "Can I submit previous work?",
-    "Do not cheapen the HackUTA experience by submitting any previous work or class assignments. Doing so will disqualify your team from final judging and awards."
+    "Do not cheapen the HackSMU experience by submitting any previous work or class assignments. Doing so will disqualify your team from final judging and awards."
   ],
   [
     "Who can attend?",
-    "Any college student is eligible for HackUTA. Any experience, any background, any education, any text editor, you're welcome to attend!"
+    "Any college student is eligible for HackSMU. Any experience, any background, any education, any text editor, you're welcome to attend!"
   ],
   [
     "Can I work with a team?",
@@ -39,7 +39,7 @@ faq: [
   ],
   [
     "I have more questions",
-    "Email us at <a href='mailto:hackuta.team@gmail.com'>hackuta.team@gmail.com</a>, and we will reply as soon as we can!"
+    "Email us at <a href='mailto:HackSMU.team@gmail.com'>HackSMU.team@gmail.com</a>, and we will reply as soon as we can!"
   ]
 ]
 ---

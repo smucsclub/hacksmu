@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HackUTA
-email: hackuta.team@gmail.com
+title: HackSMU
+email: hacksmu.team@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_url: https://twitter.com/hackuta
-github_url:  https://github.com/hackuta
-facebook_url:  https://www.facebook.com/hackuta
+twitter_url: https://twitter.com/hacksmu
+github_url:  https://github.com/hacksmu
+facebook_url:  https://www.facebook.com/hacksmu
 
-sponsor_url: "/files/Official_HackUTA_Sponsorship_Prospectus.pdf"
+sponsor_url: "/files/Official_HackSMU_Sponsorship_Prospectus.pdf"
 volunteer_url: "https://docs.google.com/forms/d/e/1FAIpQLSeDNKpA1Os1Q1xHVomsGxqyN7n--QZATnXCbpyQtDZrj115WQ/viewform"
 register_url: "https://uta-mobi.typeform.com/to/mw366f"
 

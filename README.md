@@ -1,1 +1,1 @@
-# hackuta.github.io
+# HackSMU.github.io
