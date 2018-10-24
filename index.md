@@ -7,7 +7,7 @@ faq: [
   ],
   [
     "How do I apply?",
-    "Registration has opened. <a href='https://HackSMU2018.typeform.com/to/xRoIAo' target='_blank'> Register Here</a> "
+    "Registration will be opening soon."
   ],
   [
     "What can I make?",
