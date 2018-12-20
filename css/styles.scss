@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600');
 $primary: #0033A0;
 $secondary: #C8102E;
-$accent: #990000;
+$accent: #C8102E;
 $dark-light: #F2F2F2;
 $light: #FFFFFF;
-$red: #801515;
+$red: #C8102E;
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -72,7 +72,7 @@ a {
   }
 
   .cover-buttons a:hover{
-    background-color: $secondary;
+    background-color: $light;
   }
 
   .social {
