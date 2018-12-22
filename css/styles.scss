@@ -38,8 +38,8 @@ a {
   //   top: 0;
   // }
   .btn {
-    background: #fff;
-    color: #333;
+    background-color: $secondary;
+    color: #fff;
     border-radius: 3px;
     padding: 8px;
     margin: 0 3px;
@@ -87,6 +87,14 @@ a {
   }
   .registration-link {
     font-size: 30px;
+  }
+  #registrationBtn {
+  color: #fff;
+  background-color: $secondary;
+  }
+  #footerBtn {
+    color: #fff;
+    background-color: $secondary;
   }
 
 
