@@ -37,7 +37,7 @@ faq: [
 
   [
     "Code of Conduct",
-    "The focus of HackSMU is for everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now. <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf' target='_blank'>Read me</a>"
+    "The focus of HackSMU is for everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now."
   ],
   [
     "I have more questions",
