@@ -2,7 +2,7 @@
 layout: home
 faq: [
   [
-    "What is a HackSMU?",
+    "What is HackSMU?",
     "Our hackathon is a 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
 
 "
@@ -38,7 +38,7 @@ faq: [
 
   [
     "Code of Conduct",
-    "The focus of HackSMU is for everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now."
+    "We want everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now."
   ],
   [
     "I have more questions",
