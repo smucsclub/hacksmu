@@ -28,7 +28,7 @@ faq: [
   ],
   [
     "Can I submit previous work?",
-    "Do not cheapen the HackSMU experience by submitting any previous work or class assignments. Doing so will disqualify your team from final judging and awards."
+    "Doing so cheats yourself of the opportunity to learn and grow at an educational event. Please respect yourself and those around you by presenting only what you are able to create during HackSMU."
   ],
   [
     "What can I make?",
