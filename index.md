@@ -9,7 +9,7 @@ faq: [
   ],
   [
     "How do I register?",
-    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> We will send out acceptances on a rolling basis, so be sure to mark hacksmu.team@gmail.com as an accepted sender."
+    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> We will send out acceptances on a rolling basis, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
