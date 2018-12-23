@@ -28,7 +28,8 @@ faq: [
   ],
   [
     "Can I submit previous work?",
-    "Doing so cheats yourself of the opportunity to learn and grow at an educational event. Please respect yourself and those around you by presenting only what you are able to create during HackSMU."
+    "Doing so cheats yourself of the opportunity to learn and grow at this educational event. Please respect yourself and those around you by presenting only what you create during HackSMU.
+"
   ],
   [
     "What can I make?",
