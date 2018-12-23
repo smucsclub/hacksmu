@@ -3,7 +3,7 @@ layout: home
 faq: [
   [
     "What is a hackathon?",
-    "Our hackathon is a 24-hour, overnight three-in-one educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
+    "Our hackathon is a 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
 
 "
   ],
