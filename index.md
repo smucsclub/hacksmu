@@ -12,7 +12,8 @@ faq: [
   ],
   [
     "What if I don't have experience?",
-    "You can come learn at our workshops and from our mentors. If you want to compete, we will also award prizes for non-skill categories such as humor, aesthetics, creativity, and more."
+    "You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more.
+"
   ],
   [
     "How do I register?",
