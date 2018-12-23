@@ -3,43 +3,45 @@ layout: home
 faq: [
   [
     "What is a hackathon?",
-    "A hackathon is best described as an 'invention marathon'. Anyone of any skill level is welcome to come and invent anything. If you want to build an iOS game, an IOT sticker vending machine, or even the next big social network, come to HackSMU!"
+    "Our hackathon is a 24-hour, overnight educational event that combines the functions of a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
+
+"
+  ],
+  ["Who can register?",
+  "We will accept registrations from college and university students of all majors and skills, as well as select high school students. Anyone with an SMU student ID may register at the door, but we encourage you to do so as soon as possible!"
   ],
   [
-    "How do I apply?",
-    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a>"
+    "What if I don't have experience?",
+    "You can come learn at our workshops and from our mentors. If you want to compete, we will also award prizes for non-skill categories such as humor, aesthetics, creativity, and more."
   ],
   [
-    "What can I make?",
-    "Whatever your heart desires! A website, an app, a video game with super VR features, a robot that gives people high fives, the list goes on. Your project will be judged based off its creativity, innovation, coolness factor and technical skills involved."
+    "How do I register?",
+    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> We will send out acceptances on a rolling basis, so be sure to mark hacksmu.team@gmail.com as an accepted sender."
   ],
   [
-    "Can I submit previous work?",
-    "Do not cheapen the HackSMU experience by submitting any previous work or class assignments. Doing so will disqualify your team from final judging and awards."
-  ],
-  [
-    "Who can attend?",
-    "Any college student is eligible for HackSMU. Any experience, any background, any education, any text editor, you're welcome to attend!"
+    "What should I bring?",
+    "Be sure to bring your ID, costumes, snacks, sleeping equipment, toiletries, glow-in-the-dark fidget spinners, laptop, hardware, and whatever else you want to help make HackSMU fun."
   ],
   [
     "Can I work with a team?",
     "Yes, teams can be up to 4 people. If you don't have a team yet, we'll help you find one! You can do it alone, but it's not as fun."
   ],
   [
-    "What if I don't have experience?",
-    "That is 100% okay! We will have several workshops, mentors and even skilled students to help you out! We just want you to have fun and build something cool."
+    "Can I submit previous work?",
+    "Do not cheapen the HackSMU experience by submitting any previous work or class assignments. Doing so will disqualify your team from final judging and awards."
   ],
   [
-    "What should I bring?",
-    "Bring a valid student ID, yourself and anything to contribute to your hack. This includes a laptop, charger, mouse, keyboard, and your five 27\" monitors if you wanna be THAT kid."
+    "What can I make?",
+    "Build whatever you want! We will have workshops and mentors to help you build and present websites, mobile apps, VR games, sign-language translating gloves, and more!"
   ],
+
   [
     "Code of Conduct",
-    "Just do the thing your parents always told you to do. Treat others as you want to be treated. <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf' target='_blank'>Read me</a>"
+    "The focus of HackSMU is for everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now. <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf' target='_blank'>Read me</a>"
   ],
   [
     "I have more questions",
-    "Email us at <a href='mailto:HackSMU.team@gmail.com'>HackSMU.team@gmail.com</a>, and we will reply as soon as we can!"
+    "Email us at <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a>, and we will reply as soon as we can!"
   ]
 ]
 ---
