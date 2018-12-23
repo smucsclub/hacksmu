@@ -2,7 +2,7 @@
 layout: home
 faq: [
   [
-    "What is a hackathon?",
+    "What is a HackSMU?",
     "Our hackathon is a 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
 
 "
