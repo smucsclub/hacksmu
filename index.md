@@ -3,13 +3,13 @@ layout: home
 faq: [
   [
     "What is HackSMU?",
-    "HackSMU` is an on-campus, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
+    "HackSMU is an on-campus, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
 
 "
   ],
   [
     "How do I register?",
-    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> We will send out acceptances on a rolling basis, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    <a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> Anyone with a valid SMU ID may register at the door, but we encourage you to do so as soon as possible. We will email acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
