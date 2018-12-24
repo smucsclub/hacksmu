@@ -18,7 +18,7 @@ faq: [
 "
   ],
   ["Who can apply?",
-  "We will consider applications from college and university students of all majors and skills, as well as select high school students."
+  "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
   ],
 
   [
@@ -45,7 +45,8 @@ faq: [
   ],
   [
     "I have more questions",
-    "Email us at <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a>, and we will reply as soon as we can!"
+    "Email us at <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a>, and we will reply as soon as we can! Be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender.
+    "
   ]
 ]
 ---
