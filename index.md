@@ -27,7 +27,7 @@ faq: [
   ],
   [
     "Can I work with a team?",
-    "Yes, teams can be up to 4 people. If you don't have a team yet, we'll help you find one! You can do it alone, but it's not as fun."
+    "Teams may have up to 4 members, and each member can come from any major, skill level, school, etc. If you are unable to find teammates before HackSMU, we’ll help you when the event starts."
   ],
   [
     "Can I submit previous work?",
