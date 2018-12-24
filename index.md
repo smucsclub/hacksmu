@@ -17,8 +17,8 @@ faq: [
     "You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more.
 "
   ],
-  ["Who can register?",
-  "We will accept registrations from college and university students of all majors and skills, as well as select high school students. Anyone with an SMU student ID may register at the door, but we encourage you to do so as soon as possible!"
+  ["Who can apply?",
+  "We will consider applications from college and university students of all majors and skills, as well as select high school students."
   ],
 
   [
