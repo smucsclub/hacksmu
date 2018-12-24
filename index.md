@@ -8,8 +8,8 @@ faq: [
 "
   ],
   [
-    "How do I register?",
-    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Register for HackSMU here!</a> Anyone with a valid SMU ID may register at the door, but we encourage you to do so as soon as possible. We will email acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    "How do I apply?",
+    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
