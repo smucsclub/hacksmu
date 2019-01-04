@@ -339,6 +339,27 @@ a {
   overflow: scroll;
 }
 
+/* Start of team section */
+
+#team-members {
+  .image {
+    width: 10rem;
+    margin: 1rem;
+  }
+
+  .name {}
+  
+  a {
+    color: $secondary;
+  }
+
+  .linkedin-icon {
+    width: 24px;
+  }
+}
+
+/* End of team section */
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

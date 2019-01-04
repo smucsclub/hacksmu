@@ -3,6 +3,21 @@
   <div class="container">
     <h2 class="my-4">Team</h2>
 
+    <div id="team-members" class="row">
+      {% for item in page.team-members %}
+      <div class="col-sm-3 mb-3 team-member-profile">
+        <img class="image" src="{{item[3]}}">
+        <h6 class="name">{{item[0]}}</h6>
+        <a href="mailto:{{item[1]}}" class="email">
+          <img class="email-icon" src="../img/logos/email-icon.png">
+        </a>
+        <a href="{{item[2]}}" class="linkedin">
+          <img class="linkedin-icon" src="../img/logos/linkedin-icon.png"/>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
     <br>
     <br>
     <br>

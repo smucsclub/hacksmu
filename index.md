@@ -49,12 +49,18 @@ faq: [
     "
   ]
 ]
+team-members: [
+  ["Momin Irfan", "mirfan@smu.edu", "https://www.linkedin.com/in/mominirfan/", "../img/team/momin-irfan.jpeg"],
+  ["Sabrina Peng", "shpeng@smu.edu", "https://www.linkedin.com/in/sabrinapeng113581/", "../img/team/sabrina-peng.jpeg"],
+  ["Tristan Knotts", "mirfan@smu.edu", "https://www.linkedin.com/in/tristanknotts/", "../img/team/tristan-knotts.jpeg"],
+  ["Trevor Knotts", "mirfan@smu.edu", "https://www.linkedin.com/in/trevorknotts/", "../img/team/trevor-knotts.jpeg"]
+]
 ---
 {% include header.html %}
 {% include intro.html %}
 {% include faq.html %}
 {% include map.html %}
 {% include team.html %}
-{% include mentors.html %}
+<!-- {% include mentors.html %} -->
 {% include sponsors.html %}
 {% include footer.html %}
