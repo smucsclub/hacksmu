@@ -7,7 +7,8 @@
       {% for item in page.team-members %}
       <div class="col-sm-3 mb-3 team-member-profile">
         <img class="image" src="{{item[3]}}">
-        <h6 class="name">{{item[0]}}</h6>
+        <h5 class="name">{{item[0]}}</h5>
+        <h6 class="title">{{item[4]}}</h6>
         <a href="mailto:{{item[1]}}" class="email">
           <img class="email-icon" src="../img/logos/email-icon.png">
         </a>
