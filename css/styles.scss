@@ -89,16 +89,6 @@ a {
     font-size: 30px;
   }
   
-  #registrationBtn {
-  color: #fff;
-  background-color: $secondary;
-  }
-  #footerBtn {
-    color: #fff;
-    background-color: $secondary;
-  }
-
-
   // &::after {
   //   content: '';
   //   position: absolute;
@@ -110,6 +100,16 @@ a {
   //   background: url('/img/cover-bottom.svg') no-repeat;
   //   background-size: 100%;
   // }
+}
+
+#sponsor-container {
+  .btn {
+    color: #fff;
+    background-color: $secondary;
+    border-radius: 3px;
+    padding: 8px;
+    margin: 0 3px;
+  }
 }
 
 .bg-darker-light {
