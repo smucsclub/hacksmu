@@ -54,5 +54,7 @@ faq: [
 {% include intro.html %}
 {% include faq.html %}
 {% include map.html %}
+{% include team.html %}
+{% include mentors.html %}
 {% include sponsors.html %}
 {% include footer.html %}
