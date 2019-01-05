@@ -11,7 +11,7 @@ $red: #C8102E;
 body {
   font-family: 'Poppins', sans-serif;
   color: #373a3c;
-  //background-color: $primary;
+  background-color: $primary;
 }
 
 h1 {
@@ -24,11 +24,14 @@ h2 {
 }
 
 a {
+  opacity: 0.95;
   color: $accent;
 }
 
 a:hover {
   color: $accent;
+  opacity: 1;
+  border: solid $secondary 2px !important;
 }
 
 #main-cover {
