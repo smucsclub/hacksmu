@@ -1,7 +1,12 @@
 <?php
-	# This test page checks CSP only for browsers with "Content-Security-Policy" header support
-	# i.e. no old WebKit or old Firefox
-	header("Content-Security-Policy: default-src 'self'; report-uri csp-log.php");
+	# Support: Firefox
+	header("X-Content-Security-Policy: default-src 'self';");
+
+	# Support: Webkit, Safari 5
+	# http://stackoverflow.com/questions/13663302/why-does-my-content-security-policy-work-everywhere-but-safari
+	header("X-WebKit-CSP: script-src " . $_SERVER["HTTP_HOST"] . " 'self'");
+
+	header("Content-Security-Policy: default-src 'self'");
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,9 +14,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>CSP Test Page</title>
 	<script src="../../jquery.js"></script>
-	<script src="../iframeTest.js"></script>
 	<script src="csp.js"></script>
-	<script src="getComputedSupport.js"></script>
 </head>
 <body>
 	<p>CSP Test Page</p>

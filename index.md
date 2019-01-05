@@ -50,11 +50,36 @@ faq: [
   ]
 ]
 team-members: [
-  ["Momin Irfan", "mirfan@smu.edu", "https://www.linkedin.com/in/mominirfan/", "../img/team/momin-irfan.jpeg", "President"],
-  ["Sabrina Peng", "shpeng@smu.edu", "https://www.linkedin.com/in/sabrinapeng113581/", "../img/team/sabrina-peng.jpeg", "Logistics Director"],
-  ["Tristan Knotts", "tknotts@smu.edu", "https://www.linkedin.com/in/tristanknotts/", "../img/team/tristan-knotts.jpeg", "Outreach Director"],
-  ["Trevor Knotts", "taknotts@smu.edu", "https://www.linkedin.com/in/trevorknotts/", "../img/team/trevor-knotts.jpeg", ""],
-  ["Scotty Shaw", "scottyshaw1@gmail.com", "https://www.linkedin.com/in/scottyshaw/", "../img/team/scotty-shaw.jpeg", "Advisor"],
+  [
+    "Momin Irfan", "mirfan@smu.edu", 
+    "https://www.linkedin.com/in/mominirfan/", 
+    "../img/team/momin-irfan.jpeg", "President", 
+    ""
+  ],
+  [
+    "Sabrina Peng", "shpeng@smu.edu", 
+    "https://www.linkedin.com/in/sabrinapeng113581/", 
+    "../img/team/sabrina-peng.jpeg", "Logistics Director", 
+    "Sabrina is an SMU junior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram."
+  ],
+  [
+    "Tristan Knotts", "tknotts@smu.edu", 
+    "https://www.linkedin.com/in/tristanknotts/", 
+    "../img/team/tristan-knotts.jpeg", "Outreach Director", 
+    ""
+  ],
+  [
+    "Trevor Knotts", "taknotts@smu.edu", 
+    "https://www.linkedin.com/in/trevorknotts/", 
+    "../img/team/trevor-knotts.jpeg", "", 
+    ""
+  ],
+  [
+    "Scotty Shaw", "scottyshaw1@gmail.com", 
+    "https://www.linkedin.com/in/scottyshaw/", 
+    "../img/team/scotty-shaw.jpeg", "Advisor", 
+    ""
+  ],
 ]
 ---
 {% include header.html %}

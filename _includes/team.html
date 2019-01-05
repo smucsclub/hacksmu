@@ -6,14 +6,20 @@
     <div id="team-members" class="row">
       {% for item in page.team-members %}
       <div class="col-sm-3 mb-3 team-member-profile">
-        <img class="image" src="{{item[3]}}">
+        <div class="card">
+          <img class="image front" src="{{item[3]}}">
+          <div class="back">
+            <p class="bio">{{item[5]}}</p>
+          </div>
+        </div>
+
         <h5 class="name">{{item[0]}}</h5>
         <h6 class="title">{{item[4]}}</h6>
         <a href="mailto:{{item[1]}}" class="email">
           <img class="email-icon" src="../img/logos/email-icon.png">
         </a>
         <a href="{{item[2]}}" class="linkedin">
-          <img class="linkedin-icon" src="../img/logos/linkedin-icon.png"/>
+          <img class="linkedin-icon" src="../img/logos/linkedin-icon.png" />
         </a>
       </div>
       {% endfor %}
