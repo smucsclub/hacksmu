@@ -24,12 +24,18 @@ h2 {
 }
 
 a {
-  opacity: 0.95;
   color: $accent;
 }
 
 a:hover {
   color: $accent;
+}
+
+.btn {
+  opacity: 0.95;
+}
+
+.btn:hover {
   opacity: 1;
   border: solid $secondary 2px !important;
 }
