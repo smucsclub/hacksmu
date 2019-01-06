@@ -65,7 +65,7 @@ team-members: [
   [
     "Tristan Knotts", "tknotts@smu.edu", 
     "https://www.linkedin.com/in/tristanknotts/", 
-    "../img/team/tristan-knotts.jpeg", "Outreach Director", 
+    "../img/team/tristan-knotts.jpeg", "Education Director", 
     ""
   ],
   [
