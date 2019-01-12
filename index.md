@@ -54,7 +54,7 @@ team-members: [
     "Momin Irfan", "mirfan@smu.edu", 
     "https://www.linkedin.com/in/mominirfan/", 
     "../img/team/momin-irfan.jpeg", "President", 
-    ""
+    "Momin Irfan is a senior at SMU studying Computer Science, Finance, and Mathematics."
   ],
   [
     "Sabrina Peng", "shpeng@smu.edu", 
@@ -75,11 +75,17 @@ team-members: [
     ""
   ],
   [
+    "Carter Koehler", "ckoehler@smu.edu", 
+    "https://www.linkedin.com/in/carter-koehler/", 
+    "../img/team/carter-koehler.jpeg", "", 
+    "Carter is an SMU junior who studies Math, Computer Science, and pretty much anything else he can get his hands on. He spends most of his free time reading, going for runs, and beating his friends at Super Smash Bros."
+  ],
+  [
     "Scotty Shaw", "scottyshaw1@gmail.com", 
     "https://www.linkedin.com/in/scottyshaw/", 
-    "../img/team/scotty-shaw.jpeg", "Advisor", 
-    ""
-  ],
+    "../img/team/scotty-shaw.jpeg", "Mentor", 
+    "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
+  ]
 ]
 ---
 {% include header.html %}
