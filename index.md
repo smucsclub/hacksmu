@@ -54,7 +54,7 @@ team-members: [
     "Momin Irfan", "mirfan@smu.edu", 
     "https://www.linkedin.com/in/mominirfan/", 
     "../img/team/momin-irfan.jpeg", "President", 
-    "Momin Irfan is a senior at SMU studying Computer Science, Finance, and Mathematics."
+    "Momin Irfan is a senior at SMU studying computer science, finance, and mathematics."
   ],
   [
     "Sabrina Peng", "shpeng@smu.edu", 
@@ -66,13 +66,13 @@ team-members: [
     "Tristan Knotts", "tknotts@smu.edu", 
     "https://www.linkedin.com/in/tristanknotts/", 
     "../img/team/tristan-knotts.jpeg", "Education Director", 
-    ""
+    "Tristan Knotts is a senior at Southern Methodist University, majoring in computer science with a minor in mathematics."
   ],
   [
     "Trevor Knotts", "taknotts@smu.edu", 
     "https://www.linkedin.com/in/trevorknotts/", 
     "../img/team/trevor-knotts.jpeg", "", 
-    ""
+    "Trevor Knotts is a junior at Southern Methodist University, majoring in computer science with minors in mathematics and statistics."
   ],
   [
     "Carter Koehler", "ckoehler@smu.edu", 
