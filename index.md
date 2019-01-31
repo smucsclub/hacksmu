@@ -59,25 +59,19 @@ team-members: [
   [
     "Sabrina Peng", "shpeng@smu.edu", 
     "https://www.linkedin.com/in/sabrinapeng113581/", 
-    "../img/team/sabrina-peng.jpeg", "Logistics Director", 
+    "../img/team/sabrina-peng.jpeg", "Outreach Director", 
     "Sabrina is an SMU junior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram."
   ],
   [
     "Tristan Knotts", "tknotts@smu.edu", 
     "https://www.linkedin.com/in/tristanknotts/", 
-    "../img/team/tristan-knotts.jpeg", "Education Director", 
+    "../img/team/tristan-knotts.jpeg", "Logistics Director", 
     "Tristan Knotts is a senior at Southern Methodist University, majoring in computer science with a minor in mathematics."
-  ],
-  [
-    "Trevor Knotts", "taknotts@smu.edu", 
-    "https://www.linkedin.com/in/trevorknotts/", 
-    "../img/team/trevor-knotts.jpeg", "", 
-    "Trevor Knotts is a junior at Southern Methodist University, majoring in computer science with minors in mathematics and statistics."
   ],
   [
     "Carter Koehler", "ckoehler@smu.edu", 
     "https://www.linkedin.com/in/carter-koehler/", 
-    "../img/team/carter-koehler.jpeg", "", 
+    "../img/team/carter-koehler.jpeg", "Finance Director", 
     "Carter is an SMU junior who studies Math, Computer Science, and pretty much anything else he can get his hands on. He spends most of his free time reading, going for runs, and beating his friends at Super Smash Bros."
   ],
   [
