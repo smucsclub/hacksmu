@@ -27,6 +27,12 @@ schedule: [
     ],
     [
       "02/02",
+      "02:00 pm",
+      "SMU Campus Tour",
+      "Ballroom"
+    ],
+    [
+      "02/02",
       "03:00 pm",
       "Afternoon Tea (Bobaddiction)",
       "Varsity"
@@ -107,15 +113,9 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "12:00 pm",
+      "12:15 pm",
       "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
       "Forum"
-    ],
-    [
-      "02/02",
-      "12:30 pm",
-      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
-      "Theater"
     ],
     [
       "02/02",
@@ -131,14 +131,20 @@ workshop-schedule: [
     ],
     [
       "02/02",
+      "02:00 pm",
+      "David Brauchler (Intro to Cybersecurity)",
+      "Theater"
+    ],
+    [
+      "02/02",
       "02:30 pm",
       "Luke Oglesby (GraphQL)",
       "Forum"
     ],
     [
       "02/02",
-      "02:00 pm",
-      "David Brauchler (Intro to Cybersecurity)",
+      "3:00 pm",
+      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
       "Theater"
     ],
     [
