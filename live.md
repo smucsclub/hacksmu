@@ -2,113 +2,214 @@
 layout: live
 schedule: [
     [
-      "09/30",
-      "09:30 am",
+      "02/02",
+      "08:00 am",
       "Check-in begins",
-      "Infront of Paulo Duro Lounge"
+      "Varsity"
     ],
     [
-      "09/30",
-      "11:00 am",
+      "02/02",
+      "09:00 am",
       "Opening Ceremony",
-      "Rosebud Theatre"
+      "Ballroom Central/East"
     ],
     [
-      "09/30",
-      "12:00 pm",
+      "02/02",
+      "10:00 am",
       "Hacking begins",
-      "Rio Grande Ballroom"
+      "Ballroom Central/East"
     ],
     [
-      "09/30",
-      "12:00 pm - 01:00 pm",
-      "Team Building Workshop",
-      "Palo Pinto/San Saba"
+      "02/02",
+      "12:00 pm",
+      "Lunch (Roly Poly Sandwiches)",
+      "Varsity"
     ],
     [
-      "09/30",
-      "12:30 pm",
-      "Lunch",
-      "Guadalupe"
-    ],
-    [
-      "09/30",
+      "02/02",
       "03:00 pm",
-      "React Workshop by Allstate",
-      "Palo Pinto/San Saba"
+      "Afternoon Tea (Bobaddiction)",
+      "Varsity"
     ],
     [
-      "09/30",
-      "05:00pm-06:00pm",
-      "iOS Workshop",
-      "Palo Pinto/San Saba"
+      "02/02",
+      "06:00 pm",
+      "Dinner (The Halal Guys)",
+      "Varsity"
     ],
     [
-      "09/30",
-      "07:30 pm",
-      "Dinner",
-      "Guadalupe"
+      "02/02",
+      "10:00 pm",
+      "Midnight Snack (Pokey O's Cookies and Ice Cream)",
+      "Varsity"
     ],
     [
-      "09/30",
-      "08:00 pm",
-      "Cup Stacking Game",
+      "02/02",
+      "11:00 pm",
+      "Quiet Hours begin",
       ""
     ],
     [
-      "09/30",
-      "09:30 pm",
-      "CTF Tutorial by Cyber Security Club",
-      "Palo Pinto/San Saba"
-    ],
-    [
-      "09/30",
-      "10:00 pm",
-      "Pitching  Workshop",
-      "Palo Pinto/San Saba"
-    ],
-    [
-      "10/01",
-      "12:00 am",
-      "Midnight Snack",
-      "Guadalupe"
-    ],
-    [
-      "10/01",
+      "02/03",
       "07:00 am",
-      "Breakfast",
-      "Guadalupe"
+      "Quiet Hours end, Submissions open",
+      ""
     ],
     [
-      "10/01",
+      "02/03",
+      "08:00 am",
+      "Brunch (Panera Bread)",
+      "Varsity"
+    ],
+    [
+      "02/03",
       "10:00 am",
-      "Engineering at Allstate",
-      "Palo Pinto/San Saba"
+      "Coding ends, Submissions close",
+      ""
     ],
     [
-      "10/01",
-      "12:00 pm",
-      "Hacking ends & Lunch",
-      "Guadalupe"
-    ],
-    [
-      "10/01",
-      "01:00 pm",
+      "02/03",
+      "10:30 am",
       "Showcase and Judging",
-      "Rio Grande Ballroom"
+      "Centennial Hall"
     ],
     [
-      "10/01",
-      "02:30 pm",
+      "02/03",
+      "12:00 pm",
       "Closing Ceremony",
-      "Rosebud Theatre"
+      "Ballroom Central/East"
     ],
     [
-      "10/01",
+      "02/03",
       "03:30 pm",
       "HackSMU ends",
       ""
     ]
+]
+workshop-schedule: [
+    [
+      "02/02",
+      "10:15 am",
+      "Maria Dunning (Build and Deploy Your First Website)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "10:15 am",
+      "Sunjoli Aggarwal (Intro to GitHub and Version Control)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "11:15 am",
+      "Simon Mak (11 Characteristics of Successful Entrepreneurs)",
+      "Ballroom West"
+    ],
+    [
+      "02/02",
+      "12:00 pm",
+      "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "12:00 pm",
+      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
+      "Ballroom West"
+    ],
+    [
+      "02/02",
+      "01:00 pm",
+      "Martin Arista (React Native)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "01:00 pm",
+      "Andrew Kaufmann (Communication, Data, and Problem Solving in Public Policy)",
+      "Ballroom West"
+    ],
+    [
+      "02/02",
+      "02:00 pm",
+      "Luke Oglesby (GraphQL)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "02:00 pm",
+      "David Brauchler (Intro to Cybersecurity)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "03:00 pm",
+      "DIG (3D Printing)",
+      "Deason Innovation Gym (meet up with group to visit Lyle)"
+    ],
+    [
+      "02/02",
+      "04:00 pm",
+      "Squirrel Eiserloh (Pico-8: Hacking Games in an Emulator for an 80s Videogame Console that Never Existed)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "04:00 pm",
+      "Visakh Madathil (Data Science Overview)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "05:00 pm",
+      "Iqbal Khan (Building a restful API in Golang)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "06:00 pm",
+      "Zach Eisenhauer (Google Maps API)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "06:00 pm",
+      "Tyler Giallanza (Firebase as a Backend)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "07:00 pm",
+      "Maria Dunning (!Light)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "07:00 pm",
+      "Joshua Sylvester (Blockchain)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "09:00 pm",
+      "Maria Dunning (Cupstacking)",
+      "Varsity"
+    ]
+]
+awards: [
+    "Overall 1st place",
+    "Overall 2nd place",
+    "Overall 3rd place", 
+    "Best Demo",
+    "Best Pitch",
+    "Best High School",
+    "Best Rookie",
+    "Best Data Project",
+    "Best API Project",
+    "Best Design",
+    "Funniest Project",
+    "Best VR/AR",
+    "Best Mobile Project"
 ]
 ---
 {% include footer.html %}
