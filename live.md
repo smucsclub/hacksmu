@@ -89,7 +89,7 @@ schedule: [
 workshop-schedule: [
     [
       "02/02",
-      "10:15 am",
+      "10:45 am",
       "Maria Dunning (Build and Deploy Your First Website)",
       "Forum"
     ],
@@ -109,13 +109,13 @@ workshop-schedule: [
       "02/02",
       "12:00 pm",
       "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
-      "Forum"
+      "Ballroom West"
     ],
     [
       "02/02",
-      "12:00 pm",
+      "12:30 pm",
       "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
-      "Ballroom West"
+      "Forum"
     ],
     [
       "02/02",
@@ -167,13 +167,13 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "06:00 pm",
+      "05:30 pm",
       "Zach Eisenhauer (Google Maps API)",
       "Forum"
     ],
     [
       "02/02",
-      "06:00 pm",
+      "06:30 pm",
       "Tyler Giallanza (Firebase as a Backend)",
       "Theater"
     ],
@@ -185,7 +185,7 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "07:00 pm",
+      "07:30 pm",
       "Joshua Sylvester (Blockchain)",
       "Theater"
     ],
