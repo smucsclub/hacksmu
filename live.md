@@ -109,13 +109,13 @@ workshop-schedule: [
       "02/02",
       "12:00 pm",
       "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
-      "Ballroom West"
+      "Forum"
     ],
     [
       "02/02",
       "12:30 pm",
       "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
-      "Forum"
+      "Theater"
     ],
     [
       "02/02",
@@ -127,11 +127,11 @@ workshop-schedule: [
       "02/02",
       "01:00 pm",
       "Andrew Kaufmann (Communication, Data, and Problem Solving in Public Policy)",
-      "Ballroom West"
+      "Theater"
     ],
     [
       "02/02",
-      "02:00 pm",
+      "02:30 pm",
       "Luke Oglesby (GraphQL)",
       "Forum"
     ],
@@ -155,7 +155,7 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "04:00 pm",
+      "04:30 pm",
       "Visakh Madathil (Data Science Overview)",
       "Theater"
     ],
@@ -209,7 +209,8 @@ awards: [
     "Best Design",
     "Funniest Project",
     "Best VR/AR",
-    "Best Mobile Project"
+    "Best Mobile Project",
+    "State Farm Challenge"
 ]
 ---
 {% include footer.html %}
