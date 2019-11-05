@@ -3,22 +3,20 @@ layout: home
 faq: [
   [
     "What is HackSMU?",
-    "HackSMU is an on-campus, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!
-
-"
+    "HackSMU is an on-campus, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
   ],
   [
     "How do I apply?",
-    "<a href='https://scottyshaw.typeform.com/to/H9xIYI'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    "<a href='https://hacksmuteam.typeform.com/to/UOa3m4'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
     "What if I don't have experience?",
-    "You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more.
-"
+    "You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more."
   ],
-  ["Who can apply?",
-  "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
+  [
+    "Who can apply?",
+    "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
   ],
 
   [
@@ -31,48 +29,39 @@ faq: [
   ],
   [
     "Can I submit previous work?",
-    "Doing so cheats yourself of the opportunity to learn and grow at this educational event. Please respect yourself and those around you by presenting only what you create during HackSMU.
-"
+    "Doing so cheats yourself of the opportunity to learn and grow at this educational event. Please respect yourself and those around you by presenting only what you create during HackSMU."
   ],
   [
     "What can I make?",
     "Build whatever you want! We will have workshops and mentors to help you build and present websites, mobile apps, VR games, sign-language translating gloves, and more!"
   ],
-
   [
     "Code of Conduct",
     "We want everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now."
   ],
   [
     "I have more questions",
-    "Email us at <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a>, and we will reply as soon as we can! Be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender.
-    "
+    "Email us at <a href='mailto:hacksmu.team@gmail.com'>hacksmu.team@gmail.com</a>, and we will reply as soon as we can! Be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ]
 ]
 team-members: [
   [
-    "Momin Irfan", "mirfan@smu.edu", 
-    "https://www.linkedin.com/in/mominirfan/", 
-    "../img/team/momin-irfan.jpeg", "President", 
-    "Momin Irfan is a senior at SMU studying computer science, finance, and mathematics."
-  ],
-  [
     "Sabrina Peng", "shpeng@smu.edu", 
-    "https://www.linkedin.com/in/sabrinapeng113581/", 
-    "../img/team/sabrina-peng.jpeg", "Outreach Director", 
-    "Sabrina is an SMU junior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram."
-  ],
-  [
-    "Tristan Knotts", "tknotts@smu.edu", 
-    "https://www.linkedin.com/in/tristanknotts/", 
-    "../img/team/tristan-knotts.jpeg", "Logistics Director", 
-    "Tristan Knotts is a senior at Southern Methodist University, majoring in computer science with a minor in mathematics."
+    "https://www.linkedin.com/in/sabrina-peng/", 
+    "../img/team/sabrina-peng.jpeg", "President", 
+    "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
   ],
   [
     "Carter Koehler", "ckoehler@smu.edu", 
     "https://www.linkedin.com/in/carter-koehler/", 
-    "../img/team/carter-koehler.jpeg", "Finance Director", 
-    "Carter is an SMU junior who studies Math, Computer Science, and pretty much anything else he can get his hands on. He spends most of his free time reading, going for runs, and beating his friends at Super Smash Bros."
+    "../img/team/carter-koehler.jpeg", "Vice President", 
+    "Carter is an SMU senior who studies math, computer science, and anything else he can get his hands on. He spends free time reading, going for runs, and beating his friends at Super Smash Bros. Carter was one of three founders of HackSMU in its inaugural year."
+  ],
+  [
+    "Momin Irfan", "", 
+    "https://www.linkedin.com/in/mominirfan/", 
+    "../img/team/momin-irfan.jpeg", "Mentor", 
+    "Momin Irfan is an Academy Analyst at Point72 in the Long/Short division and a 2019 graduate of SMU. He is the former president of the SMU Computer Science Club and was one of three founders of HackSMU in its inaugural year."
   ],
   [
     "Scotty Shaw", "scottyshaw1@gmail.com", 
