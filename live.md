@@ -27,6 +27,12 @@ schedule: [
     ],
     [
       "02/02",
+      "02:00 pm",
+      "SMU Campus Tour",
+      "Ballroom"
+    ],
+    [
+      "02/02",
       "03:00 pm",
       "Afternoon Tea (Bobaddiction)",
       "Varsity"
@@ -89,7 +95,7 @@ schedule: [
 workshop-schedule: [
     [
       "02/02",
-      "10:15 am",
+      "10:45 am",
       "Maria Dunning (Build and Deploy Your First Website)",
       "Forum"
     ],
@@ -107,15 +113,9 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "12:00 pm",
+      "12:15 pm",
       "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
       "Forum"
-    ],
-    [
-      "02/02",
-      "12:00 pm",
-      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
-      "Ballroom West"
     ],
     [
       "02/02",
@@ -127,18 +127,24 @@ workshop-schedule: [
       "02/02",
       "01:00 pm",
       "Andrew Kaufmann (Communication, Data, and Problem Solving in Public Policy)",
-      "Ballroom West"
-    ],
-    [
-      "02/02",
-      "02:00 pm",
-      "Luke Oglesby (GraphQL)",
-      "Forum"
+      "Theater"
     ],
     [
       "02/02",
       "02:00 pm",
       "David Brauchler (Intro to Cybersecurity)",
+      "Theater"
+    ],
+    [
+      "02/02",
+      "02:30 pm",
+      "Luke Oglesby (GraphQL)",
+      "Forum"
+    ],
+    [
+      "02/02",
+      "3:00 pm",
+      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
       "Theater"
     ],
     [
@@ -155,7 +161,7 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "04:00 pm",
+      "04:30 pm",
       "Visakh Madathil (Data Science Overview)",
       "Theater"
     ],
@@ -167,13 +173,13 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "06:00 pm",
+      "05:30 pm",
       "Zach Eisenhauer (Google Maps API)",
       "Forum"
     ],
     [
       "02/02",
-      "06:00 pm",
+      "06:30 pm",
       "Tyler Giallanza (Firebase as a Backend)",
       "Theater"
     ],
@@ -185,7 +191,7 @@ workshop-schedule: [
     ],
     [
       "02/02",
-      "07:00 pm",
+      "07:30 pm",
       "Joshua Sylvester (Blockchain)",
       "Theater"
     ],
@@ -209,7 +215,8 @@ awards: [
     "Best Design",
     "Funniest Project",
     "Best VR/AR",
-    "Best Mobile Project"
+    "Best Mobile Project",
+    "State Farm Challenge"
 ]
 ---
 {% include footer.html %}
