@@ -48,14 +48,26 @@ team-members: [
   [
     "Sabrina Peng", "shpeng@smu.edu", 
     "https://www.linkedin.com/in/sabrina-peng/", 
-    "../img/team/sabrina-peng.jpeg", "President", 
+    "../img/team/sabrina-peng.png", "Director", 
     "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
   ],
   [
     "Carter Koehler", "ckoehler@smu.edu", 
     "https://www.linkedin.com/in/carter-koehler/", 
-    "../img/team/carter-koehler.jpeg", "Vice President", 
+    "../img/team/carter-koehler.jpeg", "Co-Director", 
     "Carter is an SMU senior who studies math, computer science, and anything else he can get his hands on. He spends free time reading, going for runs, and beating his friends at Super Smash Bros. Carter was one of three founders of HackSMU in its inaugural year."
+  ],
+  [
+    "Nathan Wesley", "nwesley@smu.edu", 
+    "", 
+    "../img/team/nathan-wesley.jpg", "VP Finance", 
+    "Nathan is a sophomore at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
+  ],
+  [
+    "Charlotte McCulloh", "cmcculloh@smu.edu",
+    "", 
+    "../img/team/charlotte-mcculloh.png", "VP Logistics",
+    "Charlotte is an SMU freshman studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
   ],
   [
     "Momin Irfan", "", 
@@ -68,6 +80,30 @@ team-members: [
     "https://www.linkedin.com/in/scottyshaw/", 
     "../img/team/scotty-shaw.jpeg", "Mentor", 
     "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
+  ],
+  [
+    "Rich Aisabor", "raisabor@smu.edu", 
+    "https://www.linkedin.com/in/richmond-aisabor", 
+    "../img/team/rich-aisabor.jpg", "Team Member", 
+    "Rich is a senior studying computer science at SMU. His initial exposure to computer science was in the 9th grade. Back then, technology was just an interest, but now it is dear to his heart. Currently, his favorite area in computer science is robotics, and he is an active member in the Robotics club on campus."
+  ],
+  [
+    "Karnett Huynh", "k.huynh30@gmail.com", 
+    "www.linkedin.com/in/karnett-huynh-a97444196", 
+    "../img/team/karnett-huynh.jpg", "Team Member", 
+    "Karnett is an SMU freshman majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
+  ],
+  [
+    "Michael Lennon", "mlennon@smu.edu", 
+    "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
+    "../img/team/michael-lennon.jpg", "Team Member", 
+    "Michael is a freshman studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
+  ],
+  [
+    "Nathan Ovadia", "nhovadia@gmail.com", 
+    "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
+    "../img/team/nathan-ovadia.jpg", "Team Member", 
+    "Nathan is currently a freshman at SMU planning to major in computer science."
   ]
 ]
 ---

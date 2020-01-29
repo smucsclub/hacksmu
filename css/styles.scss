@@ -365,13 +365,20 @@ a:hover {
   }
 
   .card {
-    height: 13.5rem;
-    width: 13.5rem;
+    height: 18rem;
+    width: 15rem;
     background-color: transparent;
     border-color: transparent;
-    display: block;
+    // display: block;
     margin: auto;
     margin-bottom: 1rem;
+
+    img {
+      object-fit: cover; /* Do not scale the image */
+      object-position: center; /* Center the image within the element */
+      height: 16rem;
+      width: 16rem;
+    }
   }
 
   .title {
@@ -383,8 +390,7 @@ a:hover {
   }
 
   .back {
-    border: solid white 1px;
-    font-size: 12px;
+    font-size: 13px;
 
     .bio {
       padding: 1rem;
