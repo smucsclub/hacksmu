@@ -37,7 +37,7 @@ faq: [
   ],
   [
     "Code of Conduct",
-    "We want everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now. See the official Major League Hacking Code of Conduct for details on rules and guidelines at hackathons: https://static.mlh.io/docs/mlh-code-of-conduct.pdf."
+    "We want everyone to have a great time, so please remember that Mr. Rogers wants each of us to strive to accept others exactly the way they are, right here and now. See the official Major League Hacking Code of Conduct for details on rules and guidelines at hackathons <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf'>here</a>."
   ],
   [
     "I have more questions",
