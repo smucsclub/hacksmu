@@ -65,7 +65,7 @@ team-members: [
   ],
   [
     "Charlotte McCulloh", "cmcculloh@smu.edu",
-    "", 
+    "https://www.linkedin.com/in/charlotte-mcculloh-853512195/", 
     "../img/team/charlotte-mcculloh.png", "VP Logistics",
     "Charlotte is an SMU freshman studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
   ],
@@ -103,7 +103,19 @@ team-members: [
     "Nathan Ovadia", "nhovadia@gmail.com", 
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
     "../img/team/nathan-ovadia.jpg", "Team Member", 
-    "Nathan is currently a freshman at SMU planning to major in computer science."
+    "Nathan is currently a freshman at SMU planning to major in computer science. He is very interested in game development. He plays guitar and writes music in his free time."
+  ]
+  [
+	"James Huang", "jameshuang@smu.edu",
+	"",
+	"../img/team/James-Huang.PNG", "Team Member",
+	"James is a sophomore studying computer science and statistics. When he's not coding, he likes to workout, watch random YouTube videos, play guitar, and hang out with friends."
+  ]
+  [
+	"Frank Pan", "yimingp@smu.edu",
+	"",
+	"../img/team/Frank-Pan.PNG", "Team Member",
+	"Frank is an SMU sophomore who studies computer science. He spends free time reading, sketching, playing and making video games, and enjoy playing tennis with his friends. Frank designed the T-Shirts for HACKSMU II."
   ]
 ]
 ---
