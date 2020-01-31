@@ -104,13 +104,13 @@ team-members: [
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
     "../img/team/nathan-ovadia.jpg", "Team Member", 
     "Nathan is currently a freshman at SMU planning to major in computer science. He is very interested in game development. He plays guitar and writes music in his free time."
-  ]
+  ],
   [
 	"James Huang", "jameshuang@smu.edu",
 	"",
 	"../img/team/James-Huang.PNG", "Team Member",
 	"James is a sophomore studying computer science and statistics. When he's not coding, he likes to workout, watch random YouTube videos, play guitar, and hang out with friends."
-  ]
+  ],
   [
 	"Frank Pan", "yimingp@smu.edu",
 	"",
