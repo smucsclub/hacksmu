@@ -59,7 +59,7 @@ team-members: [
   ],
   [
     "Nathan Wesley", "nwesley@smu.edu", 
-    "", 
+    "https://www.linkedin.com/in/nathaniel-wesley-63a180172/", 
     "../img/team/nathan-wesley.jpg", "VP Finance", 
     "Nathan is a sophomore at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
   ],
@@ -89,7 +89,7 @@ team-members: [
   ],
   [
     "Karnett Huynh", "k.huynh30@gmail.com", 
-    "www.linkedin.com/in/karnett-huynh-a97444196", 
+    "", 
     "../img/team/karnett-huynh.jpg", "Team Member", 
     "Karnett is an SMU freshman majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
   ],
