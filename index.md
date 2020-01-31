@@ -108,13 +108,13 @@ team-members: [
   [
 	"James Huang", "jameshuang@smu.edu",
 	"",
-	"../img/team/James-Huang.PNG", "Team Member",
+	"../img/team/James-Huang.png", "Team Member",
 	"James is a sophomore studying computer science and statistics. When he's not coding, he likes to workout, watch random YouTube videos, play guitar, and hang out with friends."
   ],
   [
 	"Frank Pan", "yimingp@smu.edu",
 	"",
-	"../img/team/Frank-Pan.PNG", "Team Member",
+	"../img/team/Frank-Pan.png", "Team Member",
 	"Frank is an SMU sophomore who studies computer science. He spends free time reading, sketching, playing and making video games, and enjoy playing tennis with his friends. Frank designed the T-Shirts for HACKSMU II."
   ]
 ]
