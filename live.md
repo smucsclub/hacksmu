@@ -178,14 +178,14 @@ workshop-schedule: [
     ]
 ]
 awards: [
-    "Overall 1st place",
-    "Overall 2nd place",
-    "Overall 3rd place",
-    "Best 1st time",
-    "Best design",
-    "Best pitch",
-    "Best enviornmental impact",
-    "Best mobile application",
+    "Overall 1st place - Oculus Rift S",
+    "Overall 2nd place - Nintendo Switch",
+    "Overall 3rd place - GoPro HERO7",
+    "Best 1st time - Amazon Echo",
+    "Best design - JBL Charge 3",
+    "Best pitch - Amazon Echo",
+    "Best enviornmental impact - SinKeu: 88.8Wh|65Watts Portable Laptop Charger with AC Outlet",
+    "Best mobile application - JBL Charge 3",
     "Sponsor challenges"
 ]
 ---
