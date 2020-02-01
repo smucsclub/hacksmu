@@ -211,7 +211,7 @@ awards: [
     "JBL Charge 3 Portable Speaker"
     ],
     [
-    "Sponsor challenges"
+    "Sponsor challenges",
     ""
     ]
 ]
