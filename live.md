@@ -4,86 +4,67 @@ schedule: [
     [
       "02/01",
       "11:00 am",
-      "Check-in begins",
-      Ernst & Young Gallery
+      "Check-in begins"
     ],
     [
       "02/01",
       "12:00 pm",
-      "Opening Ceremony",
-      "Ernst & Young Gallery"
+      "Opening Ceremony"
     ],
     [
       "02/01",
       "1:00 pm",
-      Coding begins",
-      "Ernst & Young Gallery"
+      Coding begins"
     ],
     [
       "02/01",
       "1:00 pm",
-      "Lunch",
-      Ernst & Young Gallery
+      "Lunch"
     ],
     [
       "02/01",
       "7:00 pm",
-      "Dinner",
-      "Ernst & Young Gallery"
-    ],
-    [
-      "02/01",
-      "7:00 pm",
-      "Dinner",
-      "Ernst & Young Gallery"
+      "Dinner"
     ],
     [
       "02/01",
       "10:00 pm",
-      "Quite hours begin",
-      ""
+      "Quite hours begin"
     ],
     [
       "02/02",
       "7:00 am",
-      "Quite hours end",
-      ""
+      "Quite hours end"
     ],
     [
       "02/02",
       "10:00 am",
-      "Submissions open",
-      "Ernst & Young Gallery"
+      "Submissions open"
     ],
     [
       "02/02",
       "10:00 am",
-      "Brunch",
-      "Ernst & Young Gallery"
+      "Brunch"
     ],
     [
       "02/02",
       "12:00 pm",
-      "Brunch Coding ends, Submissions close",
-      "Ernst & Young Gallery"
+      "Brunch Coding ends, Submissions close"
     ],
     [
       "02/02",
       "12:30 pm",
-      "Showcase and judging",
-      "Ernst & Young Gallery"
+      "Showcase and judging"
     ],
     [
       "02/02",
       "1:30 pm",
-      "Closing ceremony",
-      "Ernst & Young Gallery"
+      "Closing ceremony"
     ],
     [
       "02/02",
       "2:00 pm",
-      "HackSMU ends",
-      "Ernst & Young Gallery"
+      "HackSMU ends"
     ]
 ]
 workshop-schedule: [
