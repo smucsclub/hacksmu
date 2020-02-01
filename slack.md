@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirectUrl: https://join.slack.com/t/HackSMU2017/shared_invite/enQtMjQ2NTg2ODkxNzMyLWE4NjkyMGJiMzAxN2I3NjU0MmFiZGI1ZGU5N2Y0MTdhMDVjNjM5YTdmOGE2NDY3NzUyOGRmODQxMzFhMmNhNGQ
+redirectUrl: https://hacksmuii.slack.com/join/shared_invite/enQtOTMwNzE5OTQwNzU3LTQxODMyZGJkZjQ0ZWQ4NDA4ZWRlZDI5MDJkYTYzZGU4ODI1ZDJmMDdkYjNiYjZmZjliZDBjZjJhNzNhYTg2NDQ
 ---
