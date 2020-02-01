@@ -178,42 +178,15 @@ workshop-schedule: [
     ]
 ]
 awards: [
-    [
     "Overall 1st place",
-    "Oculus Rift S"
-    ],
-    [
     "Overall 2nd place",
-    "Nintendo Switch"
-    ],
-    [
     "Overall 3rd place",
-    "GoPro - HERO7 Silver 4K Waterproof Action Camera - Silver"
-    ],
-    [
     "Best 1st time",
-    "Amazon Echo"
-    ],
-    [
     "Best design",
-    "JBL Charge 3 Portable Speaker"
-    ],
-    [
     "Best pitch",
-    "Amazon Echo"
-    ],
-    [
     "Best enviornmental impact",
-    "SinKeu: 88.8Wh\65Watts Portable Laptop Charger with AC Outlet"
-    ],
-    [
     "Best mobile application",
-    "JBL Charge 3 Portable Speaker"
-    ],
-    [
-    "Sponsor challenges",
-    ""
-    ]
+    "Sponsor challenges"
 ]
 ---
 {% include footer.html %}
