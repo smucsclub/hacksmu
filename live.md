@@ -69,112 +69,28 @@ schedule: [
 ]
 workshop-schedule: [
     [
-      "02/02",
-      "10:45 am",
-      "Maria Dunning (Build and Deploy Your First Website)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "10:15 am",
-      "Sunjoli Aggarwal (Intro to GitHub and Version Control)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "11:15 am",
-      "Simon Mak (11 Characteristics of Successful Entrepreneurs)",
-      "Ballroom West"
-    ],
-    [
-      "02/02",
-      "12:15 pm",
-      "Jake Carlson and Ian Johnson (Machine Learning as a Service)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "01:00 pm",
-      "Martin Arista (React Native)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "01:00 pm",
-      "Andrew Kaufmann (Communication, Data, and Problem Solving in Public Policy)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "02:00 pm",
-      "David Brauchler (Intro to Cybersecurity)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "02:30 pm",
-      "Luke Oglesby (GraphQL)",
-      "Forum"
-    ],
-    [
-      "02/02",
+      "02/01",
       "3:00 pm",
-      "Josh Lauer and Jose Velazquez (Intro to AR/VR Development)",
-      "Theater"
+      "Sunjoli Aggarwal (Intro to Git)",
+      "Maguire 251"
     ],
     [
-      "02/02",
-      "03:00 pm",
-      "DIG (3D Printing)",
-      "Deason Innovation Gym (meet up with group to visit Lyle)"
+      "02/01",
+      "4:00 pm",
+      "David Brauchler, Kyle Mistele (How Hackers Hack)",
+      "Maguire 251"
     ],
     [
-      "02/02",
-      "04:00 pm",
-      "Squirrel Eiserloh (Pico-8: Hacking Games in an Emulator for an 80s Videogame Console that Never Existed)",
-      "Forum"
+      "02/01",
+      "4:00 pm",
+      "José A. Velazquez, Tianyu He, Royce Rueda (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
+      "Maguire 253"
     ],
     [
-      "02/02",
-      "04:30 pm",
-      "Visakh Madathil (Data Science Overview)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "05:00 pm",
-      "Iqbal Khan (Building a restful API in Golang)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "05:30 pm",
-      "Zach Eisenhauer (Google Maps API)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "06:30 pm",
-      "Tyler Giallanza (Firebase as a Backend)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "07:00 pm",
-      "Maria Dunning (!Light)",
-      "Forum"
-    ],
-    [
-      "02/02",
-      "07:30 pm",
-      "Joshua Sylvester (Blockchain)",
-      "Theater"
-    ],
-    [
-      "02/02",
-      "09:00 pm",
-      "Maria Dunning (Cupstacking)",
-      "Varsity"
+      "02/01",
+      "5:00 pm",
+      "Barron Fuentes, Itzel Ramirez, Chris Thomas, Omar Roa (Come Meet State Farm Developers and Engineers)",
+      "Maguire 253"
     ]
 ]
 awards: [
