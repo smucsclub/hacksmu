@@ -2,94 +2,88 @@
 layout: live
 schedule: [
     [
-      "02/02",
-      "08:00 am",
+      "02/01",
+      "11:00 am",
       "Check-in begins",
-      "Varsity"
+      Ernst & Young Gallery
     ],
     [
-      "02/02",
-      "09:00 am",
+      "02/01",
+      "12:00 pm",
       "Opening Ceremony",
-      "Ballroom Central/East"
+      "Ernst & Young Gallery"
     ],
     [
-      "02/02",
-      "10:00 am",
-      "Hacking begins",
-      "Ballroom Central/East"
+      "02/01",
+      "1:00 pm",
+      Coding begins",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/02",
-      "12:00 pm",
-      "Lunch (Roly Poly Sandwiches)",
-      "Varsity"
+      "02/01",
+      "1:00 pm",
+      "Lunch",
+      Ernst & Young Gallery
     ],
     [
-      "02/02",
-      "02:00 pm",
-      "SMU Campus Tour",
-      "Ballroom"
+      "02/01",
+      "7:00 pm",
+      "Dinner",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/02",
-      "03:00 pm",
-      "Afternoon Tea (Bobaddiction)",
-      "Varsity"
+      "02/01",
+      "7:00 pm",
+      "Dinner",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/02",
-      "06:00 pm",
-      "Dinner (The Halal Guys)",
-      "Varsity"
-    ],
-    [
-      "02/02",
+      "02/01",
       "10:00 pm",
-      "Midnight Snack (Pokey O's Cookies and Ice Cream)",
-      "Varsity"
+      "Quite hours begin",
+      ""
     ],
     [
       "02/02",
-      "11:00 pm",
-      "Quiet Hours begin",
+      "7:00 am",
+      "Quite hours end",
       ""
     ],
     [
-      "02/03",
-      "07:00 am",
-      "Quiet Hours end, Submissions open",
-      ""
-    ],
-    [
-      "02/03",
-      "08:00 am",
-      "Brunch (Panera Bread)",
-      "Varsity"
-    ],
-    [
-      "02/03",
+      "02/02",
       "10:00 am",
-      "Coding ends, Submissions close",
-      ""
+      "Submissions open",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/03",
-      "10:30 am",
-      "Showcase and Judging",
-      "Centennial Hall"
+      "02/02",
+      "10:00 am",
+      "Brunch",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/03",
+      "02/02",
       "12:00 pm",
-      "Closing Ceremony",
-      "Ballroom Central/East"
+      "Brunch Coding ends, Submissions close",
+      "Ernst & Young Gallery"
     ],
     [
-      "02/03",
-      "03:30 pm",
+      "02/02",
+      "12:30 pm",
+      "Showcase and judging",
+      "Ernst & Young Gallery"
+    ],
+    [
+      "02/02",
+      "1:30 pm",
+      "Closing ceremony",
+      "Ernst & Young Gallery"
+    ],
+    [
+      "02/02",
+      "2:00 pm",
       "HackSMU ends",
-      ""
+      "Ernst & Young Gallery"
     ]
 ]
 workshop-schedule: [
