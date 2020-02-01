@@ -9,7 +9,7 @@ schedule: [
     [
       "02/01",
       "12:00 pm",
-      "Opening Ceremony"
+      "Opening ceremony"
     ],
     [
       "02/01",
@@ -29,12 +29,12 @@ schedule: [
     [
       "02/01",
       "10:00 pm",
-      "Quite hours begin"
+      "Quiet hours begin"
     ],
     [
       "02/02",
       "7:00 am",
-      "Quite hours end"
+      "Quiet hours end"
     ],
     [
       "02/02",
