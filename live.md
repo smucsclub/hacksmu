@@ -14,7 +14,7 @@ schedule: [
     [
       "02/01",
       "1:00 pm",
-      Coding begins"
+      "Coding begins"
     ],
     [
       "02/01",
@@ -49,7 +49,7 @@ schedule: [
     [
       "02/02",
       "12:00 pm",
-      "Brunch Coding ends, Submissions close"
+      "Coding ends, submissions close"
     ],
     [
       "02/02",
@@ -181,17 +181,12 @@ awards: [
     "Overall 1st place",
     "Overall 2nd place",
     "Overall 3rd place", 
-    "Best Demo",
-    "Best Pitch",
-    "Best High School",
-    "Best Rookie",
-    "Best Data Project",
-    "Best API Project",
-    "Best Design",
-    "Funniest Project",
-    "Best VR/AR",
-    "Best Mobile Project",
-    "State Farm Challenge"
+    "Best 1st time",
+    "Best design",
+    "Best pitch",
+    "Best enviornmental impact",
+    "Best mobile application",
+    "Sponsor challenges"
 ]
 ---
 {% include footer.html %}
