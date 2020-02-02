@@ -91,6 +91,12 @@ workshop-schedule: [
       "5:00 pm",
       "Barron Fuentes, Itzel Ramirez, Chris Thomas, Omar Roa (Come Meet State Farm Developers and Engineers)",
       "Maguire 253"
+    ],
+    [
+      "02/01",
+      "5:30 pm",
+      "Zach Banducci (Intro to React)",
+      "Maguire 251"
     ]
 ]
 awards: [
