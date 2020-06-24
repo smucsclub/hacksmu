@@ -60,13 +60,13 @@ team-members: [
   [
     "Nathan Wesley", "nwesley@smu.edu", 
     "https://www.linkedin.com/in/nathaniel-wesley-63a180172/", 
-    "../img/team/nathan-wesley.jpg", "VP Finance", 
+    "../img/team/nathan-wesley.jpg", "Director", 
     "Nathan is a sophomore at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
   ],
   [
     "Charlotte McCulloh", "cmcculloh@smu.edu",
     "https://www.linkedin.com/in/charlotte-mcculloh-853512195/", 
-    "../img/team/charlotte-mcculloh.png", "VP Logistics",
+    "../img/team/charlotte-mcculloh.png", "Co-Director",
     "Charlotte is an SMU freshman studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
   ],
   [
