@@ -102,7 +102,7 @@ team-members: [
   [
     "Nathan Ovadia", "nhovadia@gmail.com", 
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
-    "../img/team/nathan-ovadia1.jpg", "HackSMU Creativity Committee Head", 
+    "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
     "Nathan is currently a freshman at SMU planning to major in computer science. He is very interested in game development. He plays guitar and writes music in his free time."
   ],
   [
