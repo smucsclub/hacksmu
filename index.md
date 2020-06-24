@@ -84,26 +84,26 @@ team-members: [
   [
     "Rich Aisabor", "raisabor@smu.edu", 
     "https://www.linkedin.com/in/richmond-aisabor", 
-    "../img/team/rich-aisabor.jpg", "Team Member", 
+    "../img/team/rich-aisabor.jpg", "Logistics Committee Lead", 
     "Rich is a senior studying computer science at SMU. His initial exposure to computer science was in the 9th grade. Back then, technology was just an interest, but now it is dear to his heart. Currently, his favorite area in computer science is robotics, and he is an active member in the Robotics club on campus."
   ],
   [
     "Karnett Huynh", "k.huynh30@gmail.com", 
     "", 
-    "../img/team/karnett-huynh.jpg", "Team Member", 
+    "../img/team/karnett-huynh.jpg", "Treasurer", 
     "Karnett is an SMU freshman majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
   ],
   [
     "Michael Lennon", "mlennon@smu.edu", 
     "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
-    "../img/team/michael-lennon.jpg", "Team Member", 
+    "../img/team/michael-lennon.jpg", "Events Coordinator", 
     "Michael is a freshman studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
     "Nathan Ovadia", "nhovadia@gmail.com", 
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
     "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
-    "Nathan is currently a freshman at SMU planning to major in computer science. He is very interested in game development. He plays guitar and writes music in his free time."
+    "Nathan is currently a sophomore at SMU planning to major in computer science. He is very interested in game development and plays guitar and writes music in his free time."
   ],
   [
 	"James Huang", "jameshuang@smu.edu",
