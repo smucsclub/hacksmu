@@ -3,11 +3,36 @@
 		<h2 class="text-center mb-4">Frequently Asked Questions</h2>
 		<div class="row">
 			{% for item in page.faq %}
-			<div class="col-sm-6 mb-3">
+			<button class="accordion">
 				<h4>{{item[0]}}</h4>
+			</button>
+			<div class="col-sm-6 mb-3 panel">
+				<!-- <h4>{{item[0]}}</h4> -->
 				<p>{{item[1]}}</p>
 			</div>
+			<hr/>
 			{% endfor %}
 		</div>
 	</div>
 </section>
+
+<!-- Script for Accordion FAQ-->
+<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+	
+	for (i = 0; i < acc.length; i++) {
+	  	acc[i].addEventListener("click", function() {
+
+			this.classList.toggle("active");
+
+			// Open the correct panel
+			var panel = this.nextElementSibling;
+			if (panel.style.maxHeight) {
+		  		panel.style.maxHeight = null;
+			} else {
+		  	panel.style.maxHeight = panel.scrollHeight + "px";
+			}
+	  	});
+	}
+	</script>

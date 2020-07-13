@@ -12,7 +12,7 @@ faq: [
 
   [
     "What if I don't have experience?",
-    "You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more."
+    "Not a problem! You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more."
   ],
   [
     "Who can apply?",
@@ -119,6 +119,7 @@ team-members: [
   ]
 ]
 ---
+{% include navmenu.html %}
 {% include header.html %}
 {% include intro.html %}
 {% include faq.html %}

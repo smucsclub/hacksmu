@@ -1,17 +1,25 @@
 ---
 ---
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600');
-$primary: #0033A0;
-$secondary: #C8102E;
-$accent: #C8102E;
-$dark-light: #F2F2F2;
+$primary: #00034B;
+$secondary: #f32f2f;
+$accent: #ff5656;
+$h-color: #d0d4ee;
+$p-color:#b3b8d4;
 $light: #FFFFFF;
-$red: #C8102E;
+$red: #ff3434;
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: Verdana, sans-serif;
+  //font-family: 'Poppins', sans-serif;
   color: #373a3c;
   background-color: $primary;
+}
+
+p {
+  color: $p-color;
+  font-weight: normal;
+  font-size: 20px;
 }
 
 h1 {
@@ -21,6 +29,13 @@ h1 {
 
 h2 {
   font-weight: bold;
+}
+
+h3 {
+  font-size: 14px;
+  font-style: italic;
+  color: #d4b3b3;
+  //color: #abb0d4;
 }
 
 a {
@@ -74,6 +89,7 @@ a:hover {
 
   .cover-date {
     font-size: 2em;
+    padding-top: 50px;
     color: $secondary;
   }
 
@@ -128,7 +144,7 @@ a:hover {
 
 .bg-darker-light {
   background: $primary;
-  color: $dark-light;
+  color: $h-color;
 }
 
 .map img {
@@ -149,8 +165,102 @@ a:hover {
     }
   }
 
-  .faq { text-align: center; }
+  .faq { text-align: center; 
+  
+  }
+
+  #faq .row h4{
+    font-size: 22px;
+    font-weight: bold;
+  }
 }
+
+/* Nav Menu. */
+
+.menu-area {
+  position: relative;
+  width: calc(100%);
+  margin: 0 auto;
+  background: #f32f2f;
+  padding: 10px 0;
+  text-align: center;
+  z-index: 1;
+}
+
+.menu-area li {
+  list-style: none;
+  display: inline-block;
+}
+
+.menu-area a {
+  color: #FFF;
+  text-decoration: none;
+  z-index: 1;
+  position: relative;
+  line-height: 30px;
+  font-size: 16px;
+  font-family: Verdana;
+  padding: 0 25px;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.menu-area a:after {
+  position: absolute;
+  transform: translateY(-50%);
+  left: 100%;
+  top: 50%;
+  background: #FFF;
+  height: 80%;
+  width: 1px;
+  content: '';
+}
+
+.last-one:after {
+  width: 0 !important;
+}
+
+// Decorative Banner-like ends for the Nav menu. It's probably not needed.
+
+/*.menu-area:before {
+  position: absolute;
+  content: '';
+  top: 100%;
+  left: 0;
+  border-top: 10px solid #c52424;
+  border-right: 20px solid #c52424;
+  border-left: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+}
+
+.menu-area:after {
+  position: absolute;
+  content: '';
+  top: 100%;
+  right: 0;
+  border-top: 10px solid #c52424;
+  border-left: 20px solid #c52424;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+}*/
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+/*#mlh-trust-badge:hover
+{
+    transform: translateY(-5px);
+}*/
+
+/* End Nav Menu. */
 
 /* Home page scroll view. */
 #scroll a {
@@ -235,6 +345,8 @@ a:hover {
 #intro .container .header {
 
   padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 /* End of introduction section */
@@ -252,7 +364,7 @@ a:hover {
 }
 
 #faq .row h4{
-
+  font-size: 28px;
   font-weight: bold;
 }
 
@@ -261,6 +373,46 @@ a:hover {
   padding: 10px;
   padding-right: 50px;
 }
+
+/* Panel Buttons */
+.accordion:before {
+  position: absolute;
+  transform: translate(-1150px, -25%);
+  left: 100%;
+  top: 25%;
+  background: #FFF;
+  height: 80%;
+  width: 1px;
+  content: '';
+}
+
+.accordion {
+  position: relative;
+  background-color: $primary;
+  color: $h-color;
+  cursor: pointer;
+  padding: 4px 8px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+}
+
+.active, .accordion:hover {
+  color: $light;
+  background-color: #5658a1;
+}
+
+.panel {
+  margin: 8px;
+  padding: 0 18px;
+  background-color: $primary;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
 /*End of FAQ section*/
 
 /* Start of map page */
@@ -394,6 +546,7 @@ a:hover {
 
     .bio {
       padding: 1rem;
+      font-size: 14px;
     }
   }
 }
