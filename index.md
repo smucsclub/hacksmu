@@ -113,7 +113,8 @@ team-members: [
   ]
 ]
 ---
-{% include navmenu.html %}
+
+<!-- % include navbar.html % once we get it working.-->
 {% include header.html %}
 {% include intro.html %}
 {% include faq.html %}
