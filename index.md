@@ -46,18 +46,6 @@ faq: [
 ]
 team-members: [
   [
-    "Sabrina Peng", "shpeng@smu.edu", 
-    "https://www.linkedin.com/in/sabrina-peng/", 
-    "../img/team/sabrina-peng.png", "Director", 
-    "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
-  ],
-  [
-    "Carter Koehler", "ckoehler@smu.edu", 
-    "https://www.linkedin.com/in/carter-koehler/", 
-    "../img/team/carter-koehler.jpeg", "Co-Director", 
-    "Carter is an SMU senior who studies math, computer science, and anything else he can get his hands on. He spends free time reading, going for runs, and beating his friends at Super Smash Bros. Carter was one of three founders of HackSMU in its inaugural year."
-  ],
-  [
     "Nathan Wesley", "nwesley@smu.edu", 
     "https://www.linkedin.com/in/nathaniel-wesley-63a180172/", 
     "../img/team/nathan-wesley.jpg", "Director", 
@@ -68,6 +56,12 @@ team-members: [
     "https://www.linkedin.com/in/charlotte-mcculloh-853512195/", 
     "../img/team/charlotte-mcculloh.png", "Co-Director",
     "Charlotte is an SMU freshman studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
+  ],
+  [
+    "Sabrina Peng", "shpeng@smu.edu", 
+    "https://www.linkedin.com/in/sabrina-peng/", 
+    "../img/team/sabrina-peng.png", "Mentor", 
+    "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
   ],
   [
     "Momin Irfan", "", 
@@ -119,7 +113,8 @@ team-members: [
   ]
 ]
 ---
-{% include navmenu.html %}
+
+<!-- % include navbar.html % once we get it working.-->
 {% include header.html %}
 {% include intro.html %}
 {% include faq.html %}
