@@ -3,7 +3,7 @@ layout: home
 faq: [
   [
     "What is HackSMU?",
-    "HackSMU is an on-campus, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
+    "HackSMU is a virtual, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
   ],
   [
     "How do I apply?",
@@ -12,7 +12,7 @@ faq: [
 
   [
     "What if I don't have experience?",
-    "Not a problem! You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories such as humor, aesthetics, creativity, and more."
+    "Not a problem! You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories that are still to be determined."
   ],
   [
     "Who can apply?",
