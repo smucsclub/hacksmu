@@ -98,7 +98,7 @@ team-members: [
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
     "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
     "Nathan is currently a sophomore at SMU planning to major in computer science. He is very interested in game development and plays guitar and writes music in his free time."
-  ],
+  ], 
   [
 	"James Huang", "jameshuang@smu.edu",
 	"",
@@ -122,4 +122,5 @@ team-members: [
 {% include team.html %}
 <!-- {% include mentors.html %} -->
 {% include sponsors.html %}
+{% include contactinfo.html %}
 {% include footer.html %}

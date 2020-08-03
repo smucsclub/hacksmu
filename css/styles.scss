@@ -32,6 +32,7 @@ h2 {
 }
 
 h3 {
+  padding-top: 10px;
   font-size: 14px;
   font-style: italic;
   color: #d4b3b3;
@@ -116,6 +117,7 @@ a:hover {
     .fa { margin: 0 5px; }
   }
   .registration-link {
+    padding-top: 20px;
     font-size: 30px;
   }
 
@@ -175,7 +177,7 @@ a:hover {
   }
 }
 
-/* Nav Menu. */
+/* Navbar. */
 
 .menu-area {
   position: relative;
@@ -221,7 +223,7 @@ a:hover {
   width: 0 !important;
 }
 
-// Decorative Banner-like ends for the Nav menu. It's probably not needed.
+// Decorative Banner-like ends for the Navbar. It's probably not needed.
 
 /*.menu-area:before {
   position: absolute;
@@ -340,6 +342,10 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  h2 {
+    font-size: 48px;
+  }
 }
 
 #intro .container .header {
@@ -433,7 +439,7 @@ a:hover {
   max-height: 120px;
 }
 /*
- turns content grayscale until you hover over it
+// turns content grayscale until you hover over it
 .partners img {
   filter: grayscale(100%);
   transition: all 0.2s linear;
@@ -571,6 +577,26 @@ a:hover {
 
 .sponsor-row-last {
   margin-bottom: 3rem;
+}
+
+/* Start of contact section */
+
+#contact-info {
+  
+  img {
+    margin-bottom: 30px;
+  }
+
+  a {
+    color: $h-color;
+    font-size: 48px;
+    transition: 0.2s;
+  }
+
+  a:hover {
+    color: $light;
+    transition: 0.2s;
+  }
 }
 
 /* Sticky footer styles
