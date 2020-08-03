@@ -122,4 +122,5 @@ team-members: [
 {% include team.html %}
 <!-- {% include mentors.html %} -->
 {% include sponsors.html %}
+{% include contactinfo.html %}
 {% include footer.html %}
