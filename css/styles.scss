@@ -32,6 +32,7 @@ h2 {
 }
 
 h3 {
+  padding-top: 10px;
   font-size: 14px;
   font-style: italic;
   color: #d4b3b3;
@@ -341,6 +342,10 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  h2 {
+    font-size: 48px;
+  }
 }
 
 #intro .container .header {
