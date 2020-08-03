@@ -177,7 +177,7 @@ a:hover {
   }
 }
 
-/* Nav Menu. */
+/* Navbar. */
 
 .menu-area {
   position: relative;
@@ -223,7 +223,7 @@ a:hover {
   width: 0 !important;
 }
 
-// Decorative Banner-like ends for the Nav menu. It's probably not needed.
+// Decorative Banner-like ends for the Navbar. It's probably not needed.
 
 /*.menu-area:before {
   position: absolute;
@@ -439,7 +439,7 @@ a:hover {
   max-height: 120px;
 }
 /*
- turns content grayscale until you hover over it
+// turns content grayscale until you hover over it
 .partners img {
   filter: grayscale(100%);
   transition: all 0.2s linear;
