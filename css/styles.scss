@@ -583,8 +583,14 @@ a:hover {
   }
 
   a {
-    color: $light;
+    color: $h-color;
     font-size: 48px;
+    transition: 0.2s;
+  }
+
+  a:hover {
+    color: $light;
+    transition: 0.2s;
   }
 }
 
