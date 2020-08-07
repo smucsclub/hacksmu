@@ -91,7 +91,7 @@ team-members: [
     "Michael Lennon", "mlennon@smu.edu", 
     "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
     "../img/team/michael-lennon.jpg", "Events Coordinator", 
-    "Michael is a freshman studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
+    "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
     "Nathan Ovadia", "nhovadia@gmail.com", 
