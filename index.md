@@ -18,11 +18,6 @@ faq: [
     "Who can apply?",
     "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
   ],
-
-  [
-    "What should I bring?",
-    "Be sure to bring your ID, costumes, snacks, sleeping equipment, toiletries, glow-in-the-dark fidget spinners, laptop, hardware, and whatever else you want to help make HackSMU fun."
-  ],
   [
     "Can I work with a team?",
     "Teams may have up to 4 members, and each member can come from any major, skill level, school, etc. If you are unable to find teammates before HackSMU, we’ll help you when the event starts."
