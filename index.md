@@ -7,7 +7,7 @@ faq: [
   ],
   [
     "How do I apply?",
-    "<a href='https://hacksmuteam.typeform.com/to/UOa3m4'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
