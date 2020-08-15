@@ -18,11 +18,6 @@ faq: [
     "Who can apply?",
     "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
   ],
-
-  [
-    "What should I bring?",
-    "Be sure to bring your ID, costumes, snacks, sleeping equipment, toiletries, glow-in-the-dark fidget spinners, laptop, hardware, and whatever else you want to help make HackSMU fun."
-  ],
   [
     "Can I work with a team?",
     "Teams may have up to 4 members, and each member can come from any major, skill level, school, etc. If you are unable to find teammates before HackSMU, we’ll help you when the event starts."
@@ -49,13 +44,13 @@ team-members: [
     "Nathan Wesley", "nwesley@smu.edu", 
     "https://www.linkedin.com/in/nathaniel-wesley-63a180172/", 
     "../img/team/nathan-wesley.jpg", "Director", 
-    "Nathan is a sophomore at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
+    "Nathan is a junior at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
   ],
   [
     "Charlotte McCulloh", "cmcculloh@smu.edu",
     "https://www.linkedin.com/in/charlotte-mcculloh-853512195/", 
     "../img/team/charlotte-mcculloh.png", "Co-Director",
-    "Charlotte is an SMU freshman studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
+    "Charlotte is an SMU sophomore studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
   ],
   [
     "Sabrina Peng", "shpeng@smu.edu", 
@@ -85,13 +80,13 @@ team-members: [
     "Karnett Huynh", "k.huynh30@gmail.com", 
     "", 
     "../img/team/karnett-huynh.jpg", "Treasurer", 
-    "Karnett is an SMU freshman majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
+    "Karnett is an SMU sophomore majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
   ],
   [
     "Michael Lennon", "mlennon@smu.edu", 
     "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
     "../img/team/michael-lennon.jpg", "Events Coordinator", 
-    "Michael is a freshman studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
+    "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
     "Nathan Ovadia", "nhovadia@gmail.com", 
