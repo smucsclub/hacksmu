@@ -1,5 +1,14 @@
 ---
 layout: home
+slideshow-filenames: [
+  "_MG_7687", "_MG_7744", "_MG_7887", "_MG_8018", "_MG_8156",
+  "_MG_7702", "_MG_7837", "_MG_7892", "_MG_8051", "_MG_8174",
+  "_MG_7714", "_MG_7854", "_MG_7929", "_MG_8055", "_MG_8175",
+  "_MG_7731", "_MG_7866", "_MG_7942", "_MG_8064", "_MG_8188",
+  "_MG_7732", "_MG_7879", "_MG_7946", "_MG_8136", "_MG_8196",
+  "_MG_7739", "_MG_7883", "_MG_7959", "_MG_8150", "_MG_8201",
+  "_MG_8204", "_MG_8216", "_MG_8221", "_MG_8225", "_MG_8226"
+]
 faq: [
   [
     "What is HackSMU?",
@@ -112,6 +121,7 @@ team-members: [
 <!-- % include navbar.html % once we get it working.-->
 {% include header.html %}
 {% include intro.html %}
+{% include slideshow.html %}
 {% include faq.html %}
 {% include map.html %}
 {% include team.html %}

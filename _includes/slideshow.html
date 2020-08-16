@@ -1,0 +1,17 @@
+<!-- Since this is running on the browser, we have to enter each filename manually (in index.md). Is there a better way to do this?-->
+
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    {% for item in page.slideshow-filenames %}
+    <div class="slides fade">
+        <!-- <img class="image img-responsive front" style="height: 18rem; width: 15rem" src="../img/team/michael-lennon.jpg" style="width:100%"> -->
+        <!-- <img src="../img/photos/{{item}}.jpg" style="width:100%"> -->
+    </div>
+	{% endfor %}
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+  <br>
