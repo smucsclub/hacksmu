@@ -343,14 +343,21 @@ a:hover {
   justify-content: center;
   align-items: center;
 
-  // Should we make the background darker for the intro section? Or perhaps for the intro section + the rest of the site besides the header?
+  // Should we make the background darker for...
+    // the intro section? 
+    // intro + header?
+    // the intro section + the rest of the site besides the header?
 
   //background-color: #00011b;
-  //color: #f0f1f5;
+  //color: #ffffff;
 
   h2 {
     font-size: 48px;
   }
+
+  /*p {
+    color: #ffffff;
+  }*/
 }
 
 #intro .container .header {
