@@ -264,6 +264,34 @@ a:hover {
 
 /* End Navbar. */
 
+.mainlogo {
+  -webkit-animation: logofly 1s;
+  animation: logofly 1s;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+}
+
+@keyframes logofly {
+  from {
+    opacity: 0;
+
+    -webkit-transform: translate(-86px, -50px);
+    -ms-transform: translate(-86px, -50px);
+    transform: translate(-86px, -50px);
+
+    /*-webkit-transform: translate(-866px, -500px);
+    -ms-transform: translate(-866px, -500px);
+    transform: translate(-866px, -500px);*/
+  }
+  to {
+    opacity: 1;
+
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+
 /* Home page scroll view. */
 #scroll a {
   position: absolute;
