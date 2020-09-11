@@ -401,7 +401,7 @@ a:hover {
 
 #slideshow {
   .slideshow-container {
-    max-width: 850px;
+    max-width: 750px;
     position: relative;
     margin: auto;
   }
@@ -537,7 +537,12 @@ a:hover {
 
 /* Start of map page */
 #hacklocation {
-  padding: 30px 0px;
+  padding: 47px 60px;
+}
+
+#hacklocation a {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 #hacklocation .map {
