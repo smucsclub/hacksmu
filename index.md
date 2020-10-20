@@ -68,24 +68,6 @@ team-members: [
     "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
-    "Sabrina Peng", "shpeng@smu.edu", 
-    "https://www.linkedin.com/in/sabrina-peng/", 
-    "../img/team/sabrina-peng.png", "Mentor", 
-    "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
-  ],
-  [
-    "Momin Irfan", "", 
-    "https://www.linkedin.com/in/mominirfan/", 
-    "../img/team/momin-irfan.jpeg", "Mentor", 
-    "Momin Irfan is an Academy Analyst at Point72 in the Long/Short division and a 2019 graduate of SMU. He is the former president of the SMU Computer Science Club and was one of three founders of HackSMU in its inaugural year."
-  ],
-  [
-    "Scotty Shaw", "scottyshaw1@gmail.com", 
-    "https://www.linkedin.com/in/scottyshaw/", 
-    "../img/team/scotty-shaw.jpeg", "Mentor", 
-    "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
-  ],
-  [
     "Rich Aisabor", "raisabor@smu.edu", 
     "https://www.linkedin.com/in/richmond-aisabor", 
     "../img/team/rich-aisabor.jpg", "Logistics Committee Lead", 
@@ -103,6 +85,24 @@ team-members: [
     "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
     "Nathan is currently a sophomore at SMU planning to major in computer science. He is very interested in game development and plays guitar and writes music in his free time."
   ], 
+  [
+    "Sabrina Peng", "shpeng@smu.edu", 
+    "https://www.linkedin.com/in/sabrina-peng/", 
+    "../img/team/sabrina-peng.png", "Mentor", 
+    "Sabrina is an SMU senior studying finance and computer science. When she's not coding, you can find her analyzing figure skating scores, watching Friends, or posting on her foodstagram. Sabrina was one of three founders of HackSMU in its inaugural year."
+  ],
+  [
+    "Momin Irfan", "", 
+    "https://www.linkedin.com/in/mominirfan/", 
+    "../img/team/momin-irfan.jpeg", "Mentor", 
+    "Momin Irfan is an Academy Analyst at Point72 in the Long/Short division and a 2019 graduate of SMU. He is the former president of the SMU Computer Science Club and was one of three founders of HackSMU in its inaugural year."
+  ],
+  [
+    "Scotty Shaw", "scottyshaw1@gmail.com", 
+    "https://www.linkedin.com/in/scottyshaw/", 
+    "../img/team/scotty-shaw.jpeg", "Mentor", 
+    "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
+  ],
   [
 	"James Huang", "jameshuang@smu.edu",
 	"",
