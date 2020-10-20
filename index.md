@@ -62,6 +62,12 @@ team-members: [
     "Charlotte is an SMU sophomore studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
   ],
   [
+    "Michael Lennon", "mlennon@smu.edu", 
+    "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
+    "../img/team/michael-lennon.jpg", "Co-Director", 
+    "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
+  ],
+  [
     "Sabrina Peng", "shpeng@smu.edu", 
     "https://www.linkedin.com/in/sabrina-peng/", 
     "../img/team/sabrina-peng.png", "Mentor", 
@@ -90,12 +96,6 @@ team-members: [
     "", 
     "../img/team/karnett-huynh.jpg", "Treasurer", 
     "Karnett is an SMU sophomore majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
-  ],
-  [
-    "Michael Lennon", "mlennon@smu.edu", 
-    "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
-    "../img/team/michael-lennon.jpg", "Events Coordinator", 
-    "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
     "Nathan Ovadia", "nhovadia@gmail.com", 
