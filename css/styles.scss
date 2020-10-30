@@ -90,7 +90,7 @@ a:hover {
 
   .cover-date {
     font-size: 2em;
-    padding-top: 50px;
+    padding-top: 15px;
     color: $secondary;
   }
 
@@ -104,6 +104,11 @@ a:hover {
 
   .cover-buttons a:hover{
     background-color: $light;
+  }
+
+  .cover-countdown {
+    padding-top: 20px;
+    color: #ffaaaa;
   }
 
   .social {
