@@ -58,10 +58,10 @@ We will be providing a Discord channel (#teamfinding) to help facilitate team cr
 In the channel, talk about your background, any languages or technical experience and that you are looking for a team. Remember that everyone is in the same boat so don’t be afraid to put yourself out there!
 
 # Opening Ceremony
-Opening ceremony will be streamed on Twitch at 8:00 PM CST on November 6th. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
+Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 8:00 PM CST on November 6th. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
 
 # Closing Ceremony
-Closing ceremony will be streamed on Twitch at 11:00 AM CST on November 8th. The presentations of the top teams' projects will be played at this time.
+Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 11:00 AM CST on November 8th. The presentations of the top teams' projects will be played at this time.
 
 # Prizes
 
