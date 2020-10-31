@@ -2,98 +2,123 @@
 layout: live
 schedule: [
     [
-      "02/01",
-      "11:00 am",
-      "Check-in begins"
+      "11/06",
+      "7pm",
+      "Team Formation Activity #1"
     ],
     [
-      "02/01",
-      "12:00 pm",
+      "11/06",
+      "8pm",
       "Opening ceremony"
     ],
     [
-      "02/01",
-      "1:00 pm",
-      "Coding begins"
+      "11/06",
+      "8pm",
+      "Minecraft Building Competition"
     ],
     [
-      "02/01",
-      "1:00 pm",
-      "Lunch"
+      "11/06",
+      "8:30pm",
+      "Team Formation Activity #2"
     ],
     [
-      "02/01",
-      "7:00 pm",
-      "Dinner"
+      "11/06",
+      "11pm",
+      "Among Us"
     ],
     [
-      "02/01",
-      "10:00 pm",
-      "Quiet hours begin"
+      "11/07",
+      "7am",
+      "Sunrise over Dallas Hall"
     ],
     [
-      "02/02",
-      "7:00 am",
-      "Quiet hours end"
+      "11/07",
+      "9am",
+      "Pancakes and Waffle Making"
     ],
     [
-      "02/02",
-      "10:00 am",
-      "Submissions open"
+      "11/07",
+      "10am",
+      "Bob Ross Painting"
     ],
     [
-      "02/02",
-      "10:00 am",
-      "Brunch"
+      "11/07",
+      "12pm",
+      "Zumba"
     ],
     [
-      "02/02",
-      "12:00 pm",
-      "Coding ends, submissions close"
+      "11/07",
+      "1pm",
+      "Skribbl.io"
     ],
     [
-      "02/02",
-      "12:30 pm",
-      "Showcase and judging"
+      "11/07",
+      "3pm",
+      "Sponsorship Panel"
     ],
     [
-      "02/02",
-      "1:30 pm",
-      "Closing ceremony"
+      "11/07",
+      "6pm",
+      "HackSMU Organizers Q&A"
     ],
     [
-      "02/02",
-      "2:00 pm",
-      "HackSMU ends"
-    ]
+      "11/07",
+      "10pm",
+      "Team Typeracer Tournament"
+    ],
+    [
+      "11/08",
+      "7am",
+      "Sunrise over Dallas Hall"
+    ],
+    [
+      "11/08",
+      "7am",
+      "Sunrise over Dallas Hall"
+    ],
+    [
+      "11/08",
+      "8am",
+      "Hacking Ends, Submit to Devpost"
+    ],
+    [
+      "11/08",
+      "9am",
+      "Submissions finalized, Judging begins"
+    ],
+    [
+      "11/08",
+      "11am",
+      "Closing Ceremony"
+    ],
 ]
 workshop-schedule: [
     [
-      "02/01",
-      "3:00 pm",
+      "11/06",
+      "3pm",
       "Sunjoli Aggarwal (Intro to Git)",
       "Maguire 251"
     ],
     [
-      "02/01",
-      "4:00 pm",
+      "11/06",
+      "4pm",
       "David Brauchler, Kyle Mistele (How Hackers Hack)",
       "Maguire 251"
     ],
     [
-      "02/01",
-      "4:00 pm",
+      "11/06",
+      "4pm",
       "José A. Velazquez, Tianyu He, Royce Rueda (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
       "Maguire 253"
     ],
     [
-      "02/01",
-      "5:00 pm",
+      "11/06",
+      "5pm",
       "Barron Fuentes, Itzel Ramirez, Chris Thomas, Omar Roa (Come Meet State Farm Developers and Engineers)",
       "Maguire 253"
     ],
     [
-      "02/01",
+      "11/06",
       "5:30 pm",
       "Zach Banducci (Intro to React)",
       "Maguire 251"
