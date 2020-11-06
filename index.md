@@ -84,7 +84,13 @@ team-members: [
     "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
     "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
     "Nathan is currently a sophomore at SMU planning to major in computer science. He is very interested in game development and plays guitar and writes music in his free time."
-  ], 
+  ],
+  [
+    "Hazel Eroy", "heroy@mail.smu.edu", 
+    "https://www.linkedin.com/in/hazeleroy", 
+    "../img/team/hazel-eroy.jpg", "Secretary", 
+    "Hazel is a freshman studying computer science and economics. She is also involved in Asian Council, Project Sunshine, and Robotics. Outside school, she like to bake and play tennis."
+  ],  
   [
     "Sabrina Peng", "shpeng@smu.edu", 
     "https://www.linkedin.com/in/sabrina-peng/", 
@@ -102,18 +108,6 @@ team-members: [
     "https://www.linkedin.com/in/scottyshaw/", 
     "../img/team/scotty-shaw.jpeg", "Mentor", 
     "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
-  ],
-  [
-	"James Huang", "jameshuang@smu.edu",
-	"",
-	"../img/team/James-Huang.png", "Team Member",
-	"James is a sophomore studying computer science and statistics. When he's not coding, he likes to workout, watch random YouTube videos, play guitar, and hang out with friends."
-  ],
-  [
-	"Frank Pan", "yimingp@smu.edu",
-	"",
-	"../img/team/Frank-Pan.png", "Team Member",
-	"Frank is an SMU sophomore who studies computer science. He spends free time reading, sketching, playing and making video games, and enjoy playing tennis with his friends. Frank designed the T-Shirts for HACKSMU II."
   ]
 ]
 ---

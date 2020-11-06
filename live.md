@@ -9,12 +9,8 @@ schedule: [
     [
       "11/06",
       "8pm",
-      "Opening ceremony"
-    ],
-    [
-      "11/06",
-      "8pm",
-      "Minecraft Building Competition"
+      "Opening ceremony",
+      "https://www.twitch.tv/hacksmu"
     ],
     [
       "11/06",
@@ -73,11 +69,6 @@ schedule: [
     ],
     [
       "11/08",
-      "7am",
-      "Sunrise over Dallas Hall"
-    ],
-    [
-      "11/08",
       "8am",
       "Hacking Ends, Submit to Devpost"
     ],
@@ -95,44 +86,40 @@ schedule: [
 workshop-schedule: [
     [
       "11/06",
-      "3pm",
-      "Sunjoli Aggarwal (Intro to Git)",
+      "10pm",
+      "Sabrina Peng (Intro to Web Development)",
       "Maguire 251"
     ],
     [
-      "11/06",
-      "4pm",
+      "11/07",
+      "11am",
       "David Brauchler, Kyle Mistele (How Hackers Hack)",
       "Maguire 251"
     ],
     [
       "11/06",
-      "4pm",
-      "José A. Velazquez, Tianyu He, Royce Rueda (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
-      "Maguire 253"
+      "2pm",
+      "Haileigh Pettigrew (LinkedIn and Zoom Interview Tips and Tricks)",
+      "Maguire 251"
     ],
     [
       "11/06",
       "5pm",
-      "Barron Fuentes, Itzel Ramirez, Chris Thomas, Omar Roa (Come Meet State Farm Developers and Engineers)",
+      "José A. Velazquez (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
       "Maguire 253"
     ],
     [
       "11/06",
-      "5:30 pm",
-      "Zach Banducci (Intro to React)",
+      "7pm",
+      "Cesar Sanchez (Elevator Pitching and Personal Branding)",
       "Maguire 251"
     ]
 ]
 awards: [
-    "Overall 1st place - Oculus Rift S",
-    "Overall 2nd place - Nintendo Switch",
-    "Overall 3rd place - GoPro HERO7",
-    "Best 1st time - Amazon Echo",
-    "Best design - JBL Charge 3",
-    "Best pitch - Amazon Echo",
-    "Best enviornmental impact - SinKeu: 88.8Wh|65Watts Portable Laptop Charger with AC Outlet",
-    "Best mobile application - JBL Charge 3",
+    "Overall 1st place - $400 Amazon Gift Card",
+    "Overall 2nd place - $300 Amazon Gift Card",
+    "Overall 3rd place - $150 Amazon Gift Card",
+    "Best 1st time - $100 Amazon Gift Card",
     "Sponsor challenges"
 ]
 ---
