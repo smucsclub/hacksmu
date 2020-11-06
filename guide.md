@@ -65,7 +65,7 @@ In the channel, talk about your background, any languages or technical experienc
 Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 8:00 PM CST on November 6th. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
 
 # Closing Ceremony
-Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 11:00 AM CST on November 8th. The presentations of the top teams' projects will be played at this time.
+Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 11:00 AM CST on November 8th. We will end with a few remarks from the SMU Event Staff and Faculty, and we will showcase the presentations of the winning teams.
 
 # Prizes
 
@@ -85,7 +85,9 @@ All prizes will be awarded as Amazon giftcards
 
 
 # Submitting Your Project
-You will be submitting your projects online via Devpost. All submissions are due by 8:00 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You will be submitting your projects online via Devpost. Hacking ends precisely at 8:00 AM CST on Sunday, and you will have one additional hour to submit your project to Devpost. Please be aware of the time because you will not be allowed to submit afterwards. 
+
+You will also be required to submit with your project a 5-10 minute recorded pitch. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # Code of Conduct
 By attending HackSMU, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
