@@ -20,52 +20,62 @@ schedule: [
     [
       "11/06",
       "11pm",
-      "Among Us"
+      "Among Us", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "7am",
-      "Sunrise over Dallas Hall"
+      "Sunrise over Dallas Hall",
+      "https://www.twitch.tv/hacksmu"
     ],
     [
       "11/07",
       "9am",
-      "Pancakes and Waffle Making"
+      "Pancakes and Waffle Making",
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "10am",
-      "Bob Ross Painting"
+      "Bob Ross Painting", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "12pm",
-      "Zumba"
+      "Zumba", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "1pm",
-      "Skribbl.io"
+      "Skribbl.io", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "3pm",
-      "Sponsorship Panel"
+      "Sponsorship Panel", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "6pm",
-      "HackSMU Organizers Q&A"
+      "HackSMU Organizers Q&A", 
+      "https://discord.gg/8QyY3nt"
     ],
     [
       "11/07",
       "10pm",
-      "Team Typeracer Tournament"
+      "Team Typeracer Tournament",
+      "https://www.twitch.tv/hacksmu"
     ],
     [
       "11/08",
       "7am",
-      "Sunrise over Dallas Hall"
+      "Sunrise over Dallas Hall",
+      "https://www.twitch.tv/hacksmu"
     ],
     [
       "11/08",
@@ -80,7 +90,8 @@ schedule: [
     [
       "11/08",
       "11am",
-      "Closing Ceremony"
+      "Closing Ceremony",
+      "https://www.twitch.tv/hacksmu"
     ],
 ]
 workshop-schedule: [
