@@ -97,19 +97,19 @@ workshop-schedule: [
       "Maguire 251"
     ],
     [
-      "11/06",
+      "11/07",
       "2pm",
       "Haileigh Pettigrew (LinkedIn and Zoom Interview Tips and Tricks)",
       "Maguire 251"
     ],
     [
-      "11/06",
+      "11/07",
       "5pm",
       "José A. Velazquez (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
       "Maguire 253"
     ],
     [
-      "11/06",
+      "11/07",
       "7pm",
       "Cesar Sanchez (Elevator Pitching and Personal Branding)",
       "Maguire 251"
