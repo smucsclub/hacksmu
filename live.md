@@ -11,7 +11,7 @@ schedule: [
       "11/06",
       "8:30pm",
       "Team Formation Activity",
-      https://app.joinglimpse.com/room?key=6A4F4
+      "https://app.joinglimpse.com/room?key=6A4F4"
     ],
     [
       "11/06",
@@ -112,12 +112,6 @@ workshop-schedule: [
     [
       "11/07",
       "5pm",
-      "José A. Velazquez (Using Your Hands: Unity Hand Control Integration for AR/VR Applications)",
-      "Maguire 253"
-    ],
-    [
-      "11/07",
-      "7pm",
       "Cesar Sanchez (Elevator Pitching and Personal Branding)",
       "Maguire 251"
     ]
