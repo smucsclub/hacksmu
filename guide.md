@@ -93,7 +93,7 @@ You will also be required to submit with your project a 5-10 minute recorded pit
 By attending HackSMU, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
 # Event Descriptions
-EYou can find a full events schedule using [HackSMU Live](https://hacksmu.org/live). Events will also be announced ahead of time in the discord #annoucements channel. Some of our flagship events include:
+You can find a full events schedule using [HackSMU Live](https://hacksmu.org/live). Events will also be announced ahead of time in the discord #annoucements channel. Some of our flagship events include:
 
 Pancakes/Waffle Making - Join us for a chill morning cooking pancakes and waffles!
 
