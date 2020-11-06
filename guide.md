@@ -53,8 +53,12 @@ Read this guide completely. Make sure you go over the schedule and hop on the Di
 
 Join our Discord [here](https://discord.com/invite/8QyY3nt). We’ll be using Discord for important announcements, live updates, mini event coordination, connecting with non profit orgs, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
+When you first join the server, check in using the #check-in channel. If you have any questions, you can reach out to event staff or mentors using The Help Desk category.
+
 # Finding a Team
-We will be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
+We have provided many ways for Hackers to reach out to fellow Hackers in the Hacker's HQ discord category. You can introduce yourself to fellow hackers using the #introduction channel, and showcase your interests through the #role-selection channel.
+
+We will also be providing a channel (#teamfinding) specifically to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 In the channel, talk about your background, any languages or technical experience and that you are looking for a team. Remember that everyone is in the same boat so don’t be afraid to put yourself out there!
 
 # Opening Ceremony
@@ -77,9 +81,6 @@ Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 
 Best first time
   * $100
 
-2 gaming tournaments
-  * $25 each
-
 All prizes will be awarded as Amazon giftcards
 
 
@@ -90,16 +91,15 @@ You will be submitting your projects online via Devpost. All submissions are due
 By attending HackSMU, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
 # Event Descriptions
-You can find all event links in the Discord. They will be posted prior to the event.
-A variety of Keynote Speakers throughout the event
+EYou can find a full events schedule using [HackSMU Live](https://hacksmu.org/live). Events will also be announced ahead of time in the discord #annoucements channel. Some of our flagship events include:
 
-Pancakes/Waffle Making - Want to learn to make a gourmet breakfast? Join our zoom
+Pancakes/Waffle Making - Join us for a chill morning cooking pancakes and waffles!
 
-Wellness - Join the HackSMU team for a relaxing meditation.
+Zumba - Join the HackSMU team for some energizing dance exercises!
 
-Minecraft Building Competition - Join our Minecraft building contest, develop structures in a 3D world and bring your creations to life!
+Bob Ross Painting - Relax, Bring out your digital painting software and prepare to unleash your creativity in this interactive painting event with the legendary Bob Ross.
 
-Gaming Tournament - Think you're the best gamer around? Compete in the gaming tournament and come show off your mad gaming skills.
+Team Typeracer Tournament - Think you're the best typer around? Bring your team along in a bracket-style typing tournament and show off your typing prowess.
 
 Sunrise over Dallas Hall - Experience the sunrise over Dallas Hall with the HackSMU team.
 
