@@ -3,11 +3,6 @@ layout: live
 schedule: [
     [
       "11/06",
-      "7pm",
-      "Team Formation Activity #1"
-    ],
-    [
-      "11/06",
       "8pm",
       "Opening ceremony",
       "https://www.twitch.tv/hacksmu"
@@ -15,7 +10,8 @@ schedule: [
     [
       "11/06",
       "8:30pm",
-      "Team Formation Activity #2"
+      "Team Formation Activity",
+      https://app.joinglimpse.com/room?key=6A4F4
     ],
     [
       "11/06",
