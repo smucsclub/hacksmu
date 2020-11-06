@@ -94,19 +94,19 @@ workshop-schedule: [
     [
       "11/06",
       "10pm",
-      "Sabrina Peng (Intro to Web Development)",
+      "Haileigh Pettigrew (LinkedIn and Zoom Interview Tips and Tricks)",
       "Maguire 251"
     ],
     [
       "11/07",
       "11am",
-      "David Brauchler, Kyle Mistele (How Hackers Hack)",
+      "Sabrina Peng (Intro to Natural Language Processing)",
       "Maguire 251"
     ],
     [
       "11/07",
       "2pm",
-      "Haileigh Pettigrew (LinkedIn and Zoom Interview Tips and Tricks)",
+      "Sabrina Peng (Intro to Web Development)",
       "Maguire 251"
     ],
     [
