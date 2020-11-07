@@ -39,12 +39,6 @@ schedule: [
     ],
     [
       "11/07",
-      "12pm",
-      "Zumba", 
-      "https://discord.gg/8QyY3nt"
-    ],
-    [
-      "11/07",
       "1pm",
       "Skribbl.io", 
       "https://discord.gg/8QyY3nt"

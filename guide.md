@@ -97,8 +97,6 @@ You can find a full events schedule using [HackSMU Live](https://hacksmu.org/liv
 
 Pancakes/Waffle Making - Join us for a chill morning cooking pancakes and waffles!
 
-Zumba - Join the HackSMU team for some energizing dance exercises!
-
 Bob Ross Painting - Relax, Bring out your digital painting software and prepare to unleash your creativity in this interactive painting event with the legendary Bob Ross.
 
 Team Typeracer Tournament - Think you're the best typer around? Bring your team along in a bracket-style typing tournament and show off your typing prowess.
