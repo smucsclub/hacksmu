@@ -64,7 +64,8 @@ schedule: [
     [
       "11/08",
       "8am",
-      "Hacking Ends, Submit to Devpost"
+      "Hacking Ends, Submit to Devpost",
+      "hacksmu2020.devpost.com"
     ],
     [
       "11/08",
