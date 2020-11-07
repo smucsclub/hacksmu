@@ -62,7 +62,7 @@ We will also be providing a channel (#teamfinding) specifically to help facilita
 In the channel, talk about your background, any languages or technical experience and that you are looking for a team. Remember that everyone is in the same boat so don’t be afraid to put yourself out there!
 
 # Opening Ceremony
-Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 8:00 PM CST on November 6th. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
+Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 8:00 PM CST on November 6th. We will give a quick welcome to hackers and give an overview of this weekend.
 
 # Closing Ceremony
 Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/hacksmu) at 11:00 AM CST on November 8th. We will end with a few remarks from the SMU Event Staff and Faculty, and we will showcase the presentations of the winning teams.
