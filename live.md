@@ -102,13 +102,13 @@ workshop-schedule: [
       "7pm",
       "Cesar Sanchez (Elevator Pitching and Personal Branding)",
       "Maguire 251"
-    ]
+    ],
     [
       "11/07",
-      "2pm",
+      "2pm", 
       "Sabrina Peng (Intro to Natural Language Processing)",
       "Maguire 251"
-    ],
+    ]
 ]
 awards: [
     "Overall 1st place - $400 Amazon Gift Card",
