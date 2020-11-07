@@ -93,6 +93,12 @@ workshop-schedule: [
     ],
     [
       "11/07",
+      "2pm", 
+      "Sabrina Peng (Intro to Natural Language Processing)",
+      "Maguire 251"
+    ],
+    [
+      "11/07",
       "5pm",
       "Sabrina Peng (Intro to Web Development)",
       "Maguire 251"
@@ -101,12 +107,6 @@ workshop-schedule: [
       "11/07",
       "7pm",
       "Cesar Sanchez (Elevator Pitching and Personal Branding)",
-      "Maguire 251"
-    ],
-    [
-      "11/07",
-      "2pm", 
-      "Sabrina Peng (Intro to Natural Language Processing)",
       "Maguire 251"
     ]
 ]
