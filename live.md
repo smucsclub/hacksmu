@@ -15,7 +15,7 @@ schedule: [
     ],
     [
       "11/06",
-      "11pm",
+      "10pm",
       "Among Us", 
       "https://discord.gg/8QyY3nt"
     ],
@@ -47,12 +47,6 @@ schedule: [
       "11/07",
       "1pm",
       "Skribbl.io", 
-      "https://discord.gg/8QyY3nt"
-    ],
-    [
-      "11/07",
-      "3pm",
-      "Sponsorship Panel", 
       "https://discord.gg/8QyY3nt"
     ],
     [
@@ -92,29 +86,29 @@ schedule: [
 ]
 workshop-schedule: [
     [
-      "11/06",
-      "10pm",
+      "11/07",
+      "11am",
       "Haileigh Pettigrew (LinkedIn and Zoom Interview Tips and Tricks)",
       "Maguire 251"
     ],
     [
       "11/07",
-      "11am",
-      "Sabrina Peng (Intro to Natural Language Processing)",
-      "Maguire 251"
-    ],
-    [
-      "11/07",
-      "2pm",
+      "5pm",
       "Sabrina Peng (Intro to Web Development)",
       "Maguire 251"
     ],
     [
       "11/07",
-      "5pm",
+      "7pm",
       "Cesar Sanchez (Elevator Pitching and Personal Branding)",
       "Maguire 251"
     ]
+    [
+      "11/07",
+      "2pm",
+      "Sabrina Peng (Intro to Natural Language Processing)",
+      "Maguire 251"
+    ],
 ]
 awards: [
     "Overall 1st place - $400 Amazon Gift Card",
