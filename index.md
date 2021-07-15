@@ -16,16 +16,16 @@ faq: [
   ],
   [
     "How do I apply?",
-    "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to do so as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to apply as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
 
   [
     "What if I don't have experience?",
-    "Not a problem! You can come learn at our workshops and from our mentors. We will also award prizes for non-tech categories that are still to be determined."
+    "Not a problem! Experience is not a requirement to attend HackSMU. Come join us and learn from our workshops and mentors!"
   ],
   [
     "Who can apply?",
-    "We will consider applications from college and university students of all majors and skills, as well as recent graduates and select high school students."
+    "College and university students of all majors and skills, as well as recent graduates and select high school students, are eligible to apply for HackSMU."
   ],
   [
     "Can I work with a team?",
@@ -37,7 +37,7 @@ faq: [
   ],
   [
     "What can I make?",
-    "Build whatever you want! We will have workshops and mentors to help you build and present websites, mobile apps, VR games, sign-language translating gloves, and more!"
+    "Build whatever you want! We will have workshops and mentors to help you build and present Websites, Mobile Apps, VR Games, Hardware Hacks, and more!"
   ],
   [
     "Code of Conduct",
@@ -90,7 +90,23 @@ team-members: [
     "https://www.linkedin.com/in/hazeleroy", 
     "../img/team/hazel-eroy.jpg", "Secretary", 
     "Hazel is a freshman studying computer science and economics. She is also involved in Asian Council, Project Sunshine, and Robotics. Outside school, she like to bake and play tennis."
-  ],  
+  ]
+]
+---
+
+<!-- % include navbar.html % once we get it working.-->
+{% include header.html %}
+{% include intro.html %}
+{% include slideshow.html %}
+{% include faq.html %}
+{% include map.html %}
+{% include team.html %}
+<!-- {% include mentors.html %} -->
+{% include sponsors.html %}
+{% include contactinfo.html %}
+{% include footer.html %}
+
+<!--,  
   [
     "Sabrina Peng", "shpeng@smu.edu", 
     "https://www.linkedin.com/in/sabrina-peng/", 
@@ -108,18 +124,4 @@ team-members: [
     "https://www.linkedin.com/in/scottyshaw/", 
     "../img/team/scotty-shaw.jpeg", "Mentor", 
     "The Fresh Duke Scotty Shaw is a Duke 2009 alum who founded HackDuke and creates and mentors hackathons for universities throughout Texas and Oklahoma. He can play all positions in basketball, but is most dangerous at point guard and shooting guard."
-  ]
-]
----
-
-<!-- % include navbar.html % once we get it working.-->
-{% include header.html %}
-{% include intro.html %}
-{% include slideshow.html %}
-{% include faq.html %}
-{% include map.html %}
-{% include team.html %}
-<!-- {% include mentors.html %} -->
-{% include sponsors.html %}
-{% include contactinfo.html %}
-{% include footer.html %}
+  ]-->
