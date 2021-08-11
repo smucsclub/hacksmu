@@ -558,6 +558,29 @@ a:hover {
   width: 20rem;
 }
 
+#hacklocation h2 {
+  padding: 0px 0px 50px 0px;
+  font-weight: bold;
+}
+
+#hacklocation h4 {
+  padding: 0px 0px 20px 0px;
+  font-weight: bold;
+}
+
+// Event
+#hacklocation p {
+  padding: 0px 10px 0px 10px;
+  color: #8a90b3
+}
+
+// Times
+#hacklocation strong {
+  padding: 0px 5px 0px 0px;
+  color: $h-color
+}
+/* End of map page */
+
 #location-column {
   border-left: 1px solid #6d8ba2;
 }

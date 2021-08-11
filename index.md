@@ -15,6 +15,10 @@ faq: [
     "HackSMU is a virtual, 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
   ],
   [
+    "What is a Hybrid Hackathon?",
+    "A hybrid hackathon offers a fully in-person Hackathon experience, while also allowing virtual participants. We use digital mediums such as Discord and Twitch to allow all participants - in person and virtual - to attend workshops, create teams and submit projects. Distance is no barrier!"
+  ],
+  [
     "How do I apply?",
     "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to apply as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],

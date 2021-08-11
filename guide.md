@@ -1,15 +1,14 @@
 # HackSMU: Fall Edition Hacker Guide
 
-This guide is a list of everything you need to know to have the best possible virtual weekend with HackSMU!
+This guide is a list of everything you need to know to have the best possible weekend with HackSMU!
 
 ## Dear Hacker,
 
-We’re super excited to have you at our HackSMU Fall Hackathon from November 6th-8th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at hacksmu.team@gmail.com or message us on Facebook.
-
-Please note that this guide is still a work in progress. Now, let's jump right into things!
+We’re super excited to have you at our HackSMU Fall Hackathon from October 16th-17th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at hacksmu.team@gmail.com or message us on Facebook. Let's get started!
 
 ## Table of Contents
-- [What is a Virtual Hackathon?](#what-is-a-virtual-hackathon)
+- [What is a Hybrid Hackathon?](#what-is-a-hybrid-hackathon)
+- [How to Navigate HackSMU] (#how-to-navigate-hacksmu)
 - [What to Have on Hand](#What-to-have-on-hand)
 - [How to Prepare](#how-to-prepare)
 - [Finding a Team](#finding-a-team)
@@ -20,33 +19,19 @@ Please note that this guide is still a work in progress. Now, let's jump right i
 - [Code of Conduct](#code-of-conduct)
 - [Event Descriptions](#event-descriptions)
   
-# What is a Virtual Hackathon?
+# What is a Hybrid Hackathon?
 As the distributed teams model grows in popularity, bridging the virtual gap is more important than ever. Through hackathons, an event where developers and others come together to tackle problems over a short time period, distributed teams can be united under a singular purpose. The purpose is to meet new friends, learn new skills, and connect with potential employers. This holds true whether the hackathon is in person or online.
 
+# How to Navigate HackSMU?
+
 # What to Have on Hand
-If you'd like to participate in Pancake/Waffle making, one of our mini events, please ensure that you have these ingredients:
+If you are attending HackSMU in person, bring everything you need to be ready for 24 hours of development, networking, and fun at SMU! Coding essentials such as a laptop, charger, and related accessories are a great place to start.
 
-Pancake
+We provide meals, snacks, and energy drinks for all participants throughout the event. Feel free to bring additional snacks if you would like.
 
-* 1 cup of all-purpose 
-* 2 tablespoons sugar
-* 2 teaspoons baking poweder
-* 1/2 teaspoon salt
-* 1 cup milk
-* 2 tablespoons melted butter
-* 1 large egg
-* 1 tablespoon vegetable oil
+If you plan on taking naps throughout the event, we offer a designated room for sleeping. Be sure to bring a sleeping bag and anything else you would like to stay comfortable!
 
-Waffle
-
-* 1 cup of all-purpose 
-* 2 tablespoons sugar
-* 1 teaspoon baking powder
-* 1/4 teaspoon salt
-* 1 cup milk
-* 2 large eggs
-* 4 tablespoons (1/2 stick) melted butter
-
+If you're attending virtually, then a computer with access to internet is all you will need! Visit our main website [here](https://hacksmu.org) for all the virtual links you will need to submit projects, attend our hybrid events, and interact with the HackSMU community. Review [How to Prepare](#how-to-prepare) to set yourself up for the best virtual experience possible!
 
 # How to Prepare
 Read this guide completely. Make sure you go over the schedule and hop on the Discord. The Discord will be our main mode of communication, so make sure you're checking it!
