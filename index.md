@@ -60,34 +60,22 @@ team-members: [
     "Nathan is a junior at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
   ],
   [
-    "Charlotte McCulloh", "cmcculloh@smu.edu",
-    "https://www.linkedin.com/in/charlotte-mcculloh-853512195/", 
-    "../img/team/charlotte-mcculloh.png", "Co-Director",
-    "Charlotte is an SMU sophomore studying computer science and statistics. She is a Hunt Scholar, Vice President of the SMU Environmental Society, and an active member of many other clubs and organizations on campus. When she is not working, you can find her hanging out with friends, playing tennis, or reading."
-  ],
-  [
     "Michael Lennon", "mlennon@smu.edu", 
     "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
     "../img/team/michael-lennon.jpg", "Co-Director", 
     "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
-    "Rich Aisabor", "raisabor@smu.edu", 
-    "https://www.linkedin.com/in/richmond-aisabor", 
-    "../img/team/rich-aisabor.jpg", "Logistics Committee Lead", 
-    "Rich is a senior studying computer science at SMU. His initial exposure to computer science was in the 9th grade. Back then, technology was just an interest, but now it is dear to his heart. Currently, his favorite area in computer science is robotics, and he is an active member in the Robotics club on campus."
+    "Maggie Asare", "asaredfw@gmail.com",
+    "https://www.linkedin.com/in/maggieasare/", 
+    "../img/team/maggie-asare.png", "Co-Director",
+    "Maggie is a sophomore at SMU majoring in computer engineering and business. She is a Hunt Scholar and member of the honors college. In her free time, she likes to do crafts, sew, and try to convince her friends that crocheting is cool."
   ],
   [
-    "Karnett Huynh", "k.huynh30@gmail.com", 
-    "", 
-    "../img/team/karnett-huynh.jpg", "Treasurer", 
-    "Karnett is an SMU sophomore majoring in finance and French with a minor in computer science. She spends her free time working out, volunteering with her service fraternity, Alpha Phi Omega, and vehemently defending the Houston Astros."
-  ],
-  [
-    "Nathan Ovadia", "nhovadia@gmail.com", 
-    "https://www.linkedin.com/in/nathan-ovadia-ab5506163/", 
-    "../img/team/nathan-ovadia1.jpg", "Creativity Committee Lead", 
-    "Nathan is currently a sophomore at SMU planning to major in computer science. He is very interested in game development and plays guitar and writes music in his free time."
+    "Rebecca Kuhlman", "rkuhlman@smu.edu", 
+    "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
+    "../img/team/michael-lennon.jpg", "Outreach Director", 
+    "Rebecca Kuhlman is a Sophomore studying Computer Science and Math at SMU. They're a lab tech working at the Deason Innovation Gym, and is the resident 3D scanning staff member there. When they're not doing school work, they enjoy baking, drawing, and crafting (especially crocheting)."
   ],
   [
     "Hazel Eroy", "heroy@mail.smu.edu", 
