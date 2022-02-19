@@ -22,14 +22,17 @@ faq: [
     "How do I apply?",
     "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to apply as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
-
+  [
+    "How much does it cost?",
+    "It's free!! We don't want anyone to feel like they need to make concessions to unleash their creativity and create awesome. By attending HackSMU, you will have access to resources, swag, food, workshops, networking opportunities, and the chance to compete for prizes at no cost."
+  ],
   [
     "What if I don't have experience?",
-    "Not a problem! Experience is not a requirement to attend HackSMU. Come join us and learn from our workshops and mentors!"
+    "Not a problem! Experience is not a requirement to attend HackSMU. Come join us and learn from our workshops and mentors! We will also offer prizes specifically for first time hackers."
   ],
   [
     "Who can apply?",
-    "College and university students of all majors and skills, as well as recent graduates and select high school students, are eligible to apply for HackSMU."
+    "College and university students of all majors and skills, as well as recent graduates and select high school students (ages 16+), are eligible to apply for HackSMU."
   ],
   [
     "Can I work with a team?",
@@ -41,7 +44,7 @@ faq: [
   ],
   [
     "What can I make?",
-    "Build whatever you want! We will have workshops and mentors to help you build and present Websites, Mobile Apps, VR Games, Hardware Hacks, and more!"
+    "Build whatever you want! We will have workshops and mentors to help you build and present Websites, Mobile Apps, Hardware Hacks, AI bots from the future, and more!"
   ],
   [
     "Code of Conduct",

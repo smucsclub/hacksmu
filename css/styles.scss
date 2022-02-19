@@ -276,10 +276,19 @@ a:hover {
 /* End Navbar. */
 
 .mainlogo {
+  padding: 10%;
+
   -webkit-animation: logofly 1s;
   animation: logofly 1s;
   -webkit-transition: all .2s ease-out;
   transition: all .2s ease-out;
+}
+
+@media (max-width: 550px) {
+  .mainlogo {
+    padding: 10% 0px;
+    width: 80%;
+  }
 }
 
 @keyframes logofly {
