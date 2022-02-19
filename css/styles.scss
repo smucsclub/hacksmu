@@ -2,10 +2,13 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600');
 $primary: #00034B;
+$primary-main: #8888FF;
 $secondary: #f32f2f;
 $accent: #ff5656;
-$h-color: #d0d4ee;
-$p-color:#b3b8d4;
+//$h-color: #d0d4ee;
+//$p-color:#b3b8d4;
+$h-color:#FFFFFF;
+$p-color:#FFFFFF;
 $light: #FFFFFF;
 $red: #ff3434;
 
@@ -60,7 +63,7 @@ a:hover {
 }
 
 #main-cover {
-  background: $primary;
+  background: $primary-main;
   text-align: center;
   color: $light;
   height: 100vh;
@@ -71,8 +74,8 @@ a:hover {
   //   top: 0;
   // }
   .btn {
-    background-color: $secondary;
-    color: #fff;
+    background-color: #FFF;
+    color: $primary;
     border-radius: 3px;
     padding: 8px;
     margin: 0 3px;
@@ -111,7 +114,7 @@ a:hover {
 
   .cover-countdown {
     padding-top: 20px;
-    color: #ffaaaa;
+    color: #d2d9ff;
   }
 
   .social {
@@ -283,9 +286,9 @@ a:hover {
   from {
     opacity: 0;
 
-    -webkit-transform: translate(-86px, -50px);
-    -ms-transform: translate(-86px, -50px);
-    transform: translate(-86px, -50px);
+    -webkit-transform: translate(-86px, 0px);
+    -ms-transform: translate(-86px, 0px);
+    transform: translate(-86px, 0px);
 
     /*-webkit-transform: translate(-866px, -500px);
     -ms-transform: translate(-866px, -500px);
