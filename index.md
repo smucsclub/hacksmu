@@ -57,13 +57,13 @@ team-members: [
     "Nathan Wesley", "nwesley@smu.edu", 
     "https://www.linkedin.com/in/nathaniel-wesley-63a180172/", 
     "../img/team/nathan-wesley.jpg", "Director", 
-    "Nathan is a junior at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club Treasurer and doing *really good* at that one JV wrestling tournament in high school."
+    "Nathan is a senior at SMU studying computer science and statistics. When he's not hacking away at his fully-customized linux terminal, he likes to run and listen to lo-fi beats on spotify. He prides himself on being the Computer Science Club President and doing *really good* at that one JV wrestling tournament in high school."
   ],
   [
     "Michael Lennon", "mlennon@smu.edu", 
     "https://www.linkedin.com/in/michael-lennon-6a8b07199/", 
     "../img/team/michael-lennon.jpg", "Co-Director", 
-    "Michael is a sophomore studying computer science and math at SMU. Outside of coding, he's involved in SMU's Engineers Without Borders and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
+    "Michael is a junior studying computer science and math at SMU. Outside of coding (in his not fully-customized Linux Terminal...), he's involved in Theta Tau and plays trombone for the SMU Mustang Band. In his free time, he enjoys tutoring, drawing, running, and playing video games."
   ],
   [
     "Maggie Asare", "asaredfw@gmail.com",
@@ -74,14 +74,14 @@ team-members: [
   [
     "Rebecca Kuhlman", "rkuhlman@smu.edu", 
     "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
-    "../img/team/michael-lennon.jpg", "Outreach Director", 
-    "Rebecca Kuhlman is a Sophomore studying Computer Science and Math at SMU. They're a lab tech working at the Deason Innovation Gym, and is the resident 3D scanning staff member there. When they're not doing school work, they enjoy baking, drawing, and crafting (especially crocheting)."
+    "../img/team/rebecca-kuhlman.jpg", "Outreach Director", 
+    "Rebecca Kuhlman is a sophomore studying Computer Science and Math at SMU. They're a lab tech working at the Deason Innovation Gym, and is the resident 3D scanning staff member there. When they're not doing school work, they enjoy baking, drawing, and crafting (especially crocheting)."
   ],
   [
     "Hazel Eroy", "heroy@mail.smu.edu", 
     "https://www.linkedin.com/in/hazeleroy", 
     "../img/team/hazel-eroy.jpg", "Secretary", 
-    "Hazel is a freshman studying computer science and economics. She is also involved in Asian Council, Project Sunshine, and Robotics. Outside school, she like to bake and play tennis."
+    "Hazel is a sophomore studying computer science and economics. She is also involved in Asian Council, Project Sunshine, and Robotics. Outside school, she like to bake and play tennis."
   ]
 ]
 ---
