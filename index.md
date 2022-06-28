@@ -12,15 +12,11 @@ slideshow-filenames: [
 faq: [
   [
     "What is HackSMU?",
-    "HackSMU is a 24-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
-  ],
-  [
-    "What is a Hybrid Hackathon?",
-    "A hybrid hackathon offers a fully in-person Hackathon experience, while also allowing virtual participants. We use digital mediums such as Discord and Twitch to allow all participants - in person and virtual - to attend workshops, create teams and submit projects. Distance is no barrier!"
+    "HackSMU is a 36-hour educational event that combines a tech conference, a career fair, and a start-up competition. Come learn new skills, meet corporate recruiters, create amazing projects, and have fun at HackSMU!"
   ],
   [
     "How do I apply?",
-    "<a href='https://hacksmu.paperform.co/'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to apply as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
+    "<a href='https://forms.gle/jiKZFCCQdXLuyV9LA'>Apply for HackSMU here!</a> Anyone with a valid SMU ID may apply at the door, but we encourage you to apply as soon as possible. We will email updates and acceptance letters, so be sure to mark <a href='mailto:HackSMU.team@gmail.com'>hacksmu.team@gmail.com</a> as an accepted sender."
   ],
   [
     "How much does it cost?",
@@ -71,20 +67,38 @@ team-members: [
   [
     "Maggie Asare", "asaredfw@gmail.com",
     "https://www.linkedin.com/in/maggieasare/", 
-    "../img/team/maggie-asare.png", "Co-Director",
+    "../img/team/maggie-asare.png", "Experience Director",
     "Maggie is a sophomore at SMU majoring in computer engineering and business. She is a Hunt Scholar and member of the honors college. In her free time, she likes to do crafts, sew, and try to convince her friends that crocheting is cool."
   ],
   [
     "Rebecca Kuhlman", "rkuhlman@smu.edu", 
     "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
-    "../img/team/rebecca-kuhlman.jpg", "Outreach Director", 
+    "../img/team/rebecca-kuhlman.jpg", "Marketing Chair", 
     "Rebecca Kuhlman is a sophomore studying Computer Science and Math at SMU. They're a lab tech working at the Deason Innovation Gym, and is the resident 3D scanning staff member there. When they're not doing school work, they enjoy baking, drawing, and crafting (especially crocheting)."
   ],
-  [
-    "Hazel Eroy", "heroy@mail.smu.edu", 
-    "https://www.linkedin.com/in/hazeleroy", 
-    "../img/team/hazel-eroy.jpg", "Secretary", 
-    "Hazel is a sophomore studying computer science and economics. She is also involved in Asian Council, Project Sunshine, and Robotics. Outside school, she like to bake and play tennis."
+    [
+    "Leeza Fatima", "lfatima@smu.edu", 
+    "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
+    "../img/team/placeholder.jpg", "Logistics Director", 
+    ""
+  ],
+    [
+    "Oliver Zhu", "ozhu@smu.edu", 
+    "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
+    "../img/team/placeholder.jpg", "Tech Director", 
+    ""
+  ],
+    [
+    "Jadon Stronge", "jstronge@smu.edu", 
+    "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
+    "../img/team/placeholder.jpg", "Outreach Director", 
+    ""
+  ],
+    [
+    "Trevor Dohm", "tdohm@smu.edu", 
+    "https://www.linkedin.com/in/rebecca-kuhlman-8bab731a0/", 
+    "../img/team/placeholder.jpg", "Tech", 
+    ""
   ]
 ]
 ---

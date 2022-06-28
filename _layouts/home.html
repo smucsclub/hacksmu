@@ -1,36 +1,95 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>HackSMU</title>
-    <meta name="author" content="HackSMU">
-    <meta name="description" content="Southern Methodist University’s annual 24-hour hackathon">
-    <meta name="keywords" content="hacksmu, hackathon, Southern Methodist University">
+    <meta name="author" content="HackSMU" />
+    <meta
+      name="description"
+      content="Southern Methodist University’s annual 24-hour hackathon"
+    />
+    <meta
+      name="keywords"
+      content="hacksmu, hackathon, Southern Methodist University"
+    />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="HackSMU" />
-    <meta property="og:description" content="Southern Methodist University’s annual 24-hour hackathon" />
+    <meta
+      property="og:description"
+      content="Southern Methodist University’s annual 24-hour hackathon"
+    />
     <meta property="og:url" content="http://hacksmu.org" />
     <meta property="og:image" content="/img/HackSMU_2018_logo.png" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon_package/apple-touch-icon.png">
-    <link rel="shortcut icon" href="/img/favicon_package/favicon.ico" type="image/vnd.microsoft.icon">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon_package/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon_package/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/img/favicon_package/apple-touch-icon.png"
+    />
+    <link
+      rel="shortcut icon"
+      href="/img/favicon_package/favicon.ico"
+      type="image/vnd.microsoft.icon"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/img/favicon_package/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/img/favicon_package/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
 
     <!-- <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon"> -->
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
-    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+    <link
+      rel="stylesheet"
+      href="bower_components/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="bower_components/font-awesome/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="bower_components/animate.css/animate.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="bower_components/animate.css/animate.min.css"
+    />
 
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/styles.css" />
     <!--<link rel="shortcut icon" type="image/png" href="../img/favicon.png">-->
+
+    <a
+      id="mlh-trust-badge"
+      style="
+        display: block;
+        max-width: 100px;
+        min-width: 60px;
+        position: fixed;
+        right: 50px;
+        top: 0;
+        width: 10%;
+        z-index: 10000;
+      "
+      href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2023-season&utm_content=white"
+      target="_blank"
+      ><img
+        src="https://s3.amazonaws.com/logged-assets/trust-badge/2023/mlh-trust-badge-2023-white.svg"
+        alt="Major League Hacking 2023 Hackathon Season"
+        style="width: 100%"
+    /></a>
   </head>
   <body>
     {{ content }}
@@ -43,38 +102,53 @@
     <script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script>
 
     <script>
-      particlesJS.load('particles-js', 'particles.json', function() {
-        console.log('callback - particles.js config loaded');
+      particlesJS.load("particles-js", "particles.json", function () {
+        console.log("callback - particles.js config loaded");
       });
     </script>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://www.google-analytics.com/analytics.js",
+        "ga"
+      );
 
-      ga('create', 'UA-93534845-1', 'auto');
-      ga('send', 'pageview');
+      ga("create", "UA-93534845-1", "auto");
+      ga("send", "pageview");
     </script>
     <script>
-      $(document).ready(function() {
-
-          $('#scroll').click(function(e) {
-            e.preventDefault();
-           $("html, body").animate({scrollTop: $('#intro').offset().top}, 'slow');
-           return false;
-          });
-      });
-
-    </script>
-
-    <script type="text/javascript">
-      $(function(){
-        $(".card").flip({
-          trigger: "hover"
+      $(document).ready(function () {
+        $("#scroll").click(function (e) {
+          e.preventDefault();
+          $("html, body").animate(
+            { scrollTop: $("#intro").offset().top },
+            "slow"
+          );
+          return false;
         });
       });
     </script>
 
+    <script type="text/javascript">
+      $(function () {
+        $(".card").flip({
+          trigger: "hover",
+        });
+      });
+    </script>
   </body>
 </html>
